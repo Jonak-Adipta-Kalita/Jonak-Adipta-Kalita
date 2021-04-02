@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
-- 📫 How to reach me: [YouTube](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/), [Sotify](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji),[Instagram](https://www.instagram.com/jonakadiptakalita_2596/?hl=en), [Discord](https://discord.gg/txVed7)
+- 📫 How to reach me: [YouTube](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/), [Sotify](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji), [Instagram](https://www.instagram.com/jonakadiptakalita_2596/?hl=en), [Discord](https://discord.gg/txVed7)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
