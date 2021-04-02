@@ -14,6 +14,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
+### Spotify Playing 
+[![Spotify](https://jonak-adipta-kalita-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji)
+
 <details>
   <summary><b>Languages</b></summary>
   	<ul>
