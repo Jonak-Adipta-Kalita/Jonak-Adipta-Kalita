@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Jonak-Adipta-Kalita&color=green)
 &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21&style=social)
-&nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jonakadiptakalita_2596/?hl=en)
+&nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/xxjonakadiptaxx/?hl=en)
 
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [JavaScript](https://www.javascript.com/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
