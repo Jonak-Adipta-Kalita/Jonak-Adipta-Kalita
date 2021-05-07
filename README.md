@@ -14,6 +14,7 @@
 - 😄 Pronouns: He/His
 - 📫 Checkout my [Website](https://jonakadiptakalita.herokuapp.com/)
 - 📫 Checkout my [API](https://jak-api-dot-com.herokuapp.com/)
+- 📫 Use my [Discord Template](https://discord.new/3xd7Cj7um9Az)
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
 <details>
