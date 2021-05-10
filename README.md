@@ -1,6 +1,6 @@
-## Yo Bois, 🤘 Welcome to my Github Profile,
+## Yo Bois, 🤘 Its me [Jonak](https://jonakadiptakalita.herokuapp.com/),
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
 ![](https://komarev.com/ghpvc/?username=Jonak-Adipta-Kalita&color=green)
 &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/)
@@ -33,15 +33,15 @@
 </details>
 
 <details>
-  <summary><b>Code Editor</b></summary>
-  	<ul>
-  	    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></code>
+	<summary><b>Code Editor</b></summary>
+	<ul>
+		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></code>
 	</ul>	
 </details>
 
 <details>
-  <summary><b>PC Specs</b></summary>
-  	<ul>
+	<summary><b>PC Specs</b></summary>
+	<ul>
 		<li><b>PC: </b>Laptop</li>
 		<li><b>OS: </b>Windows 10 Pro</li>
 		<li><b>Processor: </b>Intel Core i3 5th Generation</li>
