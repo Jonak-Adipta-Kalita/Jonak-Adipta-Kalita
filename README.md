@@ -12,10 +12,10 @@
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 How to reach me: [YouTube](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/), [Spotify](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji), [Instagram](https://www.instagram.com/jonakadiptakalita_2596/?hl=en), [Discord](https://discord.gg/S3UfGkW)
 - 😄 Pronouns: He/His
-- 📫 Checkout my [Website](https://jonakadiptakalita.herokuapp.com/)
-- 📫 Checkout my [API](https://jak-api-dot-com.herokuapp.com/)
-- 📫 Use my [Discord Template](https://discord.new/3xd7Cj7um9Az)
-- 📫 Use my [Discord Bot](https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot)
+- 🌐 Checkout my [Website](https://jonakadiptakalita.herokuapp.com/)
+- ✨ Checkout my [API](https://jak-api-dot-com.herokuapp.com/)
+- 🎈 Use my [Discord Template](https://discord.new/3xd7Cj7um9Az)
+- 🤖 Use my [Discord Bot](https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot)
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
 <details>
