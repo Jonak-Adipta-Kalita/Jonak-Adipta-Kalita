@@ -63,6 +63,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring my repositories & following me 😉!
+### Show some ❤️ by Starring my Repositories & Following Me 😉!!
 
 </div>
