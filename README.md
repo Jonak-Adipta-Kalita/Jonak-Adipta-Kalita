@@ -1,16 +1,20 @@
+<div align='center'>
+
 ## Yo Bois, 🤘 Its me [Jonak](https://jonakadiptakalita.herokuapp.com/),
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/)
+&nbsp; [![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)](https://github.com/Jonak-Adipta-Kalita?tab=followers)
+&nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/xxjonakadiptaxx/?hl=en)
+&nbsp; [![Spotify Badge](https://img.shields.io/badge/-Spotify-ffffff?style=for-the-badge&logo=Spotify&logoColor=green&color=lightgreen](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji)
+&nbsp; [![Discord Badge](https://img.shields.io/badge/-Discord-ffffff?style=for-the-badge&logo=Discord&color=2c2f33](https://discord.gg/S3UfGkW)
 
-![](https://komarev.com/ghpvc/?username=Jonak-Adipta-Kalita&color=green)
-&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/)
-&nbsp; ![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21&style=social)
-&nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/xxjonakadiptaxx/?hl=en)
+</div>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
 - 🌱 I’m currently learning [Python](https://www.python.org/), [JavaScript](https://www.javascript.com/) and [Go](https://golang.org/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
-- 📫 How to reach me: [YouTube](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/), [Spotify](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji), [Instagram](https://www.instagram.com/jonakadiptakalita_2596/?hl=en), [Discord](https://discord.gg/S3UfGkW)
 - 😄 Pronouns: He/His
 - 🌐 Checkout my [Website](https://jonakadiptakalita.herokuapp.com/)
 - ✨ Checkout my [API](https://jak-api-dot-com.herokuapp.com/)
