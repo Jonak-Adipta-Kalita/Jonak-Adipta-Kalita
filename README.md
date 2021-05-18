@@ -25,12 +25,12 @@
 <details>
 	<summary><b>Languages</b></summary>
 	<ul>
-  	    [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>](https://www.python.org/) |
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>](https://www.w3schools.com/html/) |
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>](https://www.w3schools.com/css/) |
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>](https://www.javascript.com/) |
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>](https://www.typescriptlang.org/) |
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" /></code>](https://golang.org/) |
+  	    [<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" />](https://www.python.org/) |
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" />](https://www.w3schools.com/html/) |
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" />](https://www.w3schools.com/css/) |
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" />](https://www.javascript.com/) |
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" />](https://www.typescriptlang.org/) |
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" />](https://golang.org/) |
 		|--|--|--|--|--|--|
 	</ul>	
 </details>
@@ -38,9 +38,9 @@
 <details>
 	<summary><b>Tools</b></summary>
 	<ul>
-		[<code><img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" /></code>](https://www.photoshop.com/)|
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" /></code>](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)|
-		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></code>](https://code.visualstudio.com/)|
+		[<img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" />](https://www.photoshop.com/)|
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" />](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)|
+		[<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" />](https://code.visualstudio.com/)|
 		|--|--|--|
 	</ul>	
 </details>
