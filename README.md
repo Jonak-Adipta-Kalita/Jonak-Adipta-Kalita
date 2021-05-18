@@ -56,7 +56,7 @@
 <details>	
 	<summary><b>Github Stats</b></summary>
 	<br/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt" />
 </details>
 
 <hr/>
