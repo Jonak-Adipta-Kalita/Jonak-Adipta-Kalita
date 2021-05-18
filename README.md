@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Yo Bois, 🤘 Its me [Jonak](https://jonakadiptakalita.herokuapp.com/),
+## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.herokuapp.com/" target="_blank">Jonak</a>,
 
 &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/)
 &nbsp; [![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)](https://github.com/Jonak-Adipta-Kalita?tab=followers)
@@ -12,7 +12,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-- 🌱 I’m currently learning [Python](https://www.python.org/), [JavaScript](https://www.javascript.com/) and [Go](https://golang.org/)
+- 🌱 I’m currently learning [Golang](https://golang.org/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 😄 Pronouns: He/His
@@ -25,21 +25,23 @@
 <details>
 	<summary><b>Languages</b></summary>
 	<ul>
-  	    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="javascript"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
+  	    [<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>](https://www.python.org/)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>](https://www.w3schools.com/html/)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>](https://www.w3schools.com/css/)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>](https://www.javascript.com/)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>](https://www.typescriptlang.org/)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" /></code>](https://golang.org/)|
+		|--|--|--|--|--|--|
 	</ul>	
 </details>
 
 <details>
-	<summary><b>Code Editor</b></summary>
+	<summary><b>Tools</b></summary>
 	<ul>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></code>
+		[<code><img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" /></code>](https://www.photoshop.com/)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" /></code>](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)|
+		[<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></code>](https://code.visualstudio.com/)|
+		|--|--|--|
 	</ul>	
 </details>
 
