@@ -35,11 +35,22 @@
 </details>
 
 <details>
+	<summary><b>Frameworks</b></summary>
+	<ul>
+		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" /></code>
+		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
+		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" /></code>
+		<code><img height="25" width="25" src="https://tailwindcss.com/favicon-32x32.png" alt="tailwind" /></code>
+	</ul>
+</details>
+
+<details>
 	<summary><b>Tools</b></summary>
 	<ul>
 		<code><img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" /></code>
+		<code><img height="25" width="25" src="https://www.herokucdn.com/favicons/favicon.ico" alt="heroku" /></code>
 	</ul>	
 </details>
 
