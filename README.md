@@ -39,6 +39,7 @@
 	<ul>
 		<code><img height="25" width="25" src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" alt="django" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
+		<code><img height="25" width="25" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="next" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" /></code>
 		<code><img height="25" width="25" src="https://tailwindcss.com/favicon-32x32.png" alt="tailwind" /></code>
 	</ul>
