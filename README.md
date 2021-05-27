@@ -51,8 +51,8 @@
 		<code><img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" /></code>
-		<code><img height="25" width="25" src="" alt="pycharm" /></code>
-		<code><img height="25" width="25" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm" /></code>
+		<code><img height="25" width="25" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" /></code>
+		<code><img height="25" width="25" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" /></code>
 		<code><img height="25" width="25" src="https://www.herokucdn.com/favicons/favicon.ico" alt="heroku" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
 		<code><img height="25" width="25" src="https://fontawesome.com/favicon.ico" alt="font-awesome" /></code>
