@@ -77,7 +77,7 @@
 </details>
 
 <details>	
-	<summary><b>Most used Languages</b></summary>
+	<summary><b>Most Used Languages</b></summary>
 	<br/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact" />
 </details>
