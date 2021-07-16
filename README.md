@@ -2,11 +2,11 @@
 
 ## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.herokuapp.com/" target="_blank">Jonak</a>,
 
-&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ/)
-&nbsp; [![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)](https://github.com/Jonak-Adipta-Kalita?tab=followers)
-&nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/xxjonakadiptaxx/?hl=en)
-&nbsp; [![Spotify Badge](https://img.shields.io/badge/-Spotify-ffffff?style=for-the-badge&logo=Spotify&logoColor=green&color=lightgreen)](https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji)
-&nbsp; [![Discord Badge](https://img.shields.io/badge/-Discord-ffffff?style=for-the-badge&logo=Discord&color=2c2f33)](https://discord.gg/S3UfGkW)
+&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117?style=for-the-badge&logo=YouTube)][youtube]
+&nbsp; [![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)][github_followers]
+&nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+&nbsp; [![Spotify](https://img.shields.io/badge/-Spotify-ffffff?style=for-the-badge&logo=Spotify&logoColor=green&color=lightgreen)][spotify]
+&nbsp; [![Discord](https://img.shields.io/badge/-Discord-ffffff?style=for-the-badge&logo=Discord&color=2c2f33)][discord]
 
 </div>
 
@@ -16,10 +16,10 @@
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 😄 Pronouns: He/His
-- 🌐 Checkout my [Website](https://jonakadiptakalita.herokuapp.com/)
-- ✨ Checkout my [API](https://jak-api-dot-com.herokuapp.com/)
-- 🎈 Use my [Discord Template](https://discord.new/3xd7Cj7um9Az)
-- 🤖 Use my [Discord Bot](https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot)
+- 🌐 Checkout my [Website][website]
+- ✨ Checkout my [API][api]
+- 🎈 Use my [Discord Template][discord_template]
+- 🤖 Use my [Discord Bot][discord_bot]
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
 <details>
@@ -89,3 +89,13 @@
 ### Show some ❤️ by Starring my Repositories & Following Me 😉!!
 
 </div>
+
+[website]: https://jonakadiptakalita.herokuapp.com
+[api]: https://jak-api-dot-com.herokuapp.com
+[discord_template]: https://discord.new/3xd7Cj7um9Az
+[discord_bot]: https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot
+[youtube]: https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ
+[github_followers]: https://github.com/Jonak-Adipta-Kalita?tab=followers
+[instagram]: https://www.instagram.com/xxjonakadiptaxx/?hl=en
+[spotify]: https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji
+[discord]: https://discord.gg/S3UfGkW
