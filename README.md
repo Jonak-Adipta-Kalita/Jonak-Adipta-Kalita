@@ -24,6 +24,7 @@
 
 <details>
 	<summary><b>Languages</b></summary>
+	<br/>
 	<ul>
   	    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
@@ -36,6 +37,7 @@
 
 <details>
 	<summary><b>Frameworks</b></summary>
+	<br/>
 	<ul>
 		<code><img height="25" width="25" src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" alt="django" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
@@ -48,6 +50,7 @@
 
 <details>
 	<summary><b>Tools</b></summary>
+	<br/>
 	<ul>
 		<code><img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" /></code>
 		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" /></code>
@@ -62,6 +65,7 @@
 
 <details>
 	<summary><b>PC Specs</b></summary>
+	<br/>
 	<ul>
 		<li><b>PC: </b>Laptop</li>
 		<li><b>OS: </b>Windows 10 Pro</li>
@@ -70,13 +74,13 @@
 	</ul>	
 </details>
 
-<details>	
+<details>
 	<summary><b>Github Stats</b></summary>
 	<br/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt" />
 </details>
 
-<details>	
+<details>
 	<summary><b>Most Used Languages</b></summary>
 	<br/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact" />
