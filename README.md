@@ -26,12 +26,12 @@
 	<summary><b>Languages</b></summary>
 	<br/>
 	<ul>
-  	    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" /></code>
+  	    <code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/python.png?raw=true" alt="python" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/html.png?raw=true" alt="html" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/css.png?raw=true" alt="css" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/javascript.png?raw=true" alt="javascript" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/typescript.png?raw=true" alt="typescript" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/go.png?raw=true" alt="go" /></code>
 	</ul>	
 </details>
 
@@ -39,12 +39,12 @@
 	<summary><b>Frameworks</b></summary>
 	<br/>
 	<ul>
-		<code><img height="25" width="25" src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" alt="django" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native" /></code>
-		<code><img height="25" width="25" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="next" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" /></code>
-		<code><img height="25" width="25" src="https://tailwindcss.com/favicon-32x32.png" alt="tailwind" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/frameworks/django.ico?raw=true" alt="django" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/frameworks/react.png?raw=true" alt="react" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/frameworks/react-native.png?raw=true" alt="react-native" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/frameworks/next.png?raw=true" alt="next" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/frameworks/bootstrap.png?raw=true" alt="bootstrap" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/frameworks/tailwind.png?raw=true" alt="tailwind" /></code>
 	</ul>
 </details>
 
@@ -52,14 +52,14 @@
 	<summary><b>Tools</b></summary>
 	<br/>
 	<ul>
-		<code><img height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg" alt="Adobe Photoshop" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" /></code>
-		<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" /></code>
-		<code><img height="25" width="25" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" /></code>
-		<code><img height="25" width="25" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" /></code>
-		<code><img height="25" width="25" src="https://www.herokucdn.com/favicons/favicon.ico" alt="heroku" /></code>
-		<code><img height="25" src="https://git-scm.com/favicon.ico" alt="git" /></code>
-		<code><img height="25" width="25" src="https://fontawesome.com/favicon.ico" alt="font-awesome" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/photoshop.png?raw=true" alt="Adobe Photoshop" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/terminal.png?raw=true" alt="terminal" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/visual-studio-code.png?raw=true" alt="vscode" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/pycharm.png?raw=true" alt="pycharm" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/webstorm.png?raw=true" alt="webstorm" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/heroku.ico?raw=true" alt="heroku" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/git.ico?raw=true" alt="git" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/font-awesome.ico?raw=true" alt="font-awesome" /></code>
 	</ul>	
 </details>
 
