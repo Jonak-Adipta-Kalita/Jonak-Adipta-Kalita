@@ -60,6 +60,8 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/heroku.ico?raw=true" alt="heroku" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/git.ico?raw=true" alt="git" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/font-awesome.ico?raw=true" alt="font-awesome" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/netlify.png?raw=true" alt="Netlify" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/firebase.ico?raw=true" alt="Firebase" /></code>
 	</ul>	
 </details>
 
