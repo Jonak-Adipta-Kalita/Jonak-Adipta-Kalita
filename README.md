@@ -76,8 +76,8 @@
 
 <div align='center'>
 
-	![Github Stats](https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt)
-	![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact)
+&nbsp; ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt)
+&nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact)
 
 </div>
 
