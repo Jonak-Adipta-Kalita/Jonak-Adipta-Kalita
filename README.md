@@ -74,7 +74,7 @@
 	</ul>	
 </details>
 
-<div align='center'>
+<div align='center' style="display: flex;">
 
 &nbsp; ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt)
 &nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact)
