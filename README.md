@@ -32,7 +32,7 @@
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/javascript.png?raw=true" alt="javascript" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/typescript.png?raw=true" alt="typescript" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/languages/go.png?raw=true" alt="go" /></code>
-	</ul>	
+	</ul>
 </details>
 
 <details>
@@ -62,7 +62,10 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/font-awesome.ico?raw=true" alt="font-awesome" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/netlify.png?raw=true" alt="Netlify" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/firebase.ico?raw=true" alt="Firebase" /></code>
-	</ul>	
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/audacity.png?raw=true" alt="Audacity" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/node-js.png?raw=true" alt="Node JS" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/postman.png?raw=true" alt="Postman" /></code>
+	</ul>
 </details>
 
 <details>
@@ -73,7 +76,7 @@
 		<li><b>OS: </b>Windows 10 Pro</li>
 		<li><b>Processor: </b>Intel Core i3 5th Generation</li>
 		<li><b>RAM: </b>4GB</li>
-	</ul>	
+	</ul>
 </details>
 
 <div align='center'>
