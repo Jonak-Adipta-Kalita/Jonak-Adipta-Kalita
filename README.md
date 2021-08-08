@@ -65,6 +65,7 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/audacity.png?raw=true" alt="Audacity" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/node-js.png?raw=true" alt="Node JS" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/postman.png?raw=true" alt="Postman" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/snyk.png?raw=true" alt="Snyk" /></code>
 	</ul>
 </details>
 
