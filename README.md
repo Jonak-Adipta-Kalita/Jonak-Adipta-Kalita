@@ -52,7 +52,7 @@
 	<summary><b>Tools</b></summary>
 	<br/>
 	<ul>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/photoshop.png?raw=true" alt="Adobe Photoshop" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/photoshop.png?raw=true" alt="adobe-photoshop" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/terminal.png?raw=true" alt="terminal" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/visual-studio-code.png?raw=true" alt="vscode" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/pycharm.png?raw=true" alt="pycharm" /></code>
@@ -60,12 +60,12 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/heroku.ico?raw=true" alt="heroku" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/git.ico?raw=true" alt="git" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/font-awesome.ico?raw=true" alt="font-awesome" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/netlify.png?raw=true" alt="Netlify" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/firebase.ico?raw=true" alt="Firebase" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/audacity.png?raw=true" alt="Audacity" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/node-js.png?raw=true" alt="Node JS" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/postman.png?raw=true" alt="Postman" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/snyk.png?raw=true" alt="Snyk" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/netlify.png?raw=true" alt="netlify" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/firebase.ico?raw=true" alt="firebase" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/audacity.png?raw=true" alt="audacity" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/node-js.png?raw=true" alt="node-js" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/postman.png?raw=true" alt="postman" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/master/images/tools/snyk.png?raw=true" alt="snyk" /></code>
 	</ul>
 </details>
 
