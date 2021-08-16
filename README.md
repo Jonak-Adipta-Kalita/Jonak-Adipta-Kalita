@@ -12,7 +12,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-- 🌱 I’m currently learning [Golang](https://golang.org/)
+- 🌱 I’m currently learning [Golang](https://golang.org/) and [Blender](https://www.blender.org/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 😄 Pronouns: He/His
