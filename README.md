@@ -74,10 +74,14 @@
 	<summary><b>Social Media</b></summary>
 	<br />
 	<ul>
+		<a href="https://github.com/Jonak-Adipta-Kalita"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/github.png?raw=true" alt="github" /></code></a>
 		<a href="https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/spotify.png?raw=true" alt="spotify" /></code></a>
 		<a href="https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/youtube.png?raw=true" alt="youtube" /></code></a>
 		<a href="https://discord.gg/S3UfGkW"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/discord.png?raw=true" alt="discord" /></code></a>
 		<a href="https://www.instagram.com/xxjonakadiptaxx/?hl=en"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/instagram.png?raw=true" alt="instagram" /></code></a>
+		<a href="https://twitter.com/AdiptaJonak"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitter.png?raw=true" alt="twitter" /></code></a>
+		<a href="https://www.twitch.tv/jonakadiptakalita_2596"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitch.png?raw=true" alt="twitch" /></code></a>
+		<a href="https://www.reddit.com/r/BeastNight_TV/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/reddit.png?raw=true" alt="reddit" /></code></a>
 	</ul>
 </details>
 
