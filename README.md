@@ -2,11 +2,7 @@
 
 ## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.herokuapp.com/" target="_blank">Jonak</a>,
 
-&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117?style=for-the-badge&logo=YouTube)][youtube]
 &nbsp; [![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)][github_followers]
-&nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
-&nbsp; [![Spotify](https://img.shields.io/badge/-Spotify-ffffff?style=for-the-badge&logo=Spotify&logoColor=green&color=lightgreen)][spotify]
-&nbsp; [![Discord](https://img.shields.io/badge/-Discord-ffffff?style=for-the-badge&logo=Discord&color=2c2f33)][discord]
 
 </div>
 
@@ -70,8 +66,18 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/blender.png?raw=true" alt="blender" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/obs.png?raw=true" alt="obs" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/canva.png?raw=true" alt="canva" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/spotify.png?raw=true" alt="spotify" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/expo.png?raw=true" alt="expo" /></code>
+	</ul>
+</details>
+
+<details>
+	<summary><b>Social Media</b></summary>
+	<br />
+	<ul>
+		<a href="https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/spotify.png?raw=true" alt="spotify" /></code></a>
+		<a href="https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/youtube.png?raw=true" alt="youtube" /></code></a>
+		<a href="https://discord.gg/S3UfGkW"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/discord.png?raw=true" alt="discord" /></code></a>
+		<a href="https://www.instagram.com/xxjonakadiptaxx/?hl=en"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/instagram.png?raw=true" alt="instagram" /></code></a>
 	</ul>
 </details>
 
@@ -105,8 +111,4 @@
 [api]: https://jak-api-dot-com.herokuapp.com
 [discord_template]: https://discord.new/3xd7Cj7um9Az
 [discord_bot]: https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot
-[youtube]: https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ
 [github_followers]: https://github.com/Jonak-Adipta-Kalita?tab=followers
-[instagram]: https://www.instagram.com/xxjonakadiptaxx/?hl=en
-[spotify]: https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji
-[discord]: https://discord.gg/S3UfGkW
