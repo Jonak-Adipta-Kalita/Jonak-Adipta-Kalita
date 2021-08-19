@@ -16,6 +16,7 @@
 - ✨ Checkout my [API][api]
 - 🎈 Use my [Discord Template][discord_template]
 - 🤖 Use my [Discord Bot][discord_bot]
+- 👾 Checkout my [VSCode Extension][vscode_extension]
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
 <details>
@@ -116,3 +117,4 @@
 [discord_template]: https://discord.new/3xd7Cj7um9Az
 [discord_bot]: https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot
 [github_followers]: https://github.com/Jonak-Adipta-Kalita?tab=followers
+[vscode_extension]: https://marketplace.visualstudio.com/items?itemName=JAKVSCodeExtension.jak-vscode-extension
