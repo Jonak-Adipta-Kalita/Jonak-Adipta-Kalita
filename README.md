@@ -42,6 +42,7 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/next.png?raw=true" alt="next" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/bootstrap.png?raw=true" alt="bootstrap" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/tailwind.png?raw=true" alt="tailwind" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/svelte.png?raw=true" alt="svelte" /></code>
 	</ul>
 </details>
 
