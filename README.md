@@ -4,8 +4,8 @@
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Jonak-Adipta-Kalita?style=for-the-badge)
-&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/AdiptaJonak?style=for-the-badge&logo=Twitter)]
-&nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)]
+&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/AdiptaJonak?style=for-the-badge&logo=Twitter)
+&nbsp; ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/BeastNight_TV?style=for-the-badge&logo=Reddit)
 &nbsp; ![Twitch Status](https://img.shields.io/twitch/status/jonakadiptakalita_2596?style=for-the-badge&logo=Twitch)
 &nbsp; ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6IPfVhkqfcfBZCko6Q9mnQ?style=for-the-badge)
 &nbsp; ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6IPfVhkqfcfBZCko6Q9mnQ?style=for-the-badge)
