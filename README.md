@@ -104,6 +104,7 @@
 		<a href="https://twitter.com/AdiptaJonak"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitter.png?raw=true" alt="twitter" /></code></a>
 		<a href="https://www.twitch.tv/jonakadiptakalita_2596"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitch.png?raw=true" alt="twitch" /></code></a>
 		<a href="https://www.reddit.com/r/BeastNight_TV/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/reddit.png?raw=true" alt="reddit" /></code></a>
+		<a href="https://steamcommunity.com/profiles/76561199052472963/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/steam.png?raw=true" alt="steam" /></code></a>
 	</ul>
 </details>
 
