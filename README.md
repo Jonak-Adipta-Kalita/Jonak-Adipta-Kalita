@@ -84,6 +84,9 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/openshot.png?raw=true" alt="openshot" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/arduino.png?raw=true" alt="arduino" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/rapid-api.png?raw=true" alt="rapid-api" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/sheilds-io.png?raw=true" alt="sheilds.io" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/codepen.png?raw=true" alt="codepen" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/replit.png?raw=true" alt="replit" /></code>
 	</ul>
 </details>
 
