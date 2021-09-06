@@ -14,7 +14,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-- 🌱 I’m currently learning [C](https://www.cprogramming.com/)
+- 🌱 I’m currently learning [C](https://www.cprogramming.com/) and [C++](https://isocpp.org/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 😄 Pronouns: He/His
@@ -40,6 +40,7 @@
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/typescript.png?raw=true" alt="typescript" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/go.png?raw=true" alt="go" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/c.png?raw=true" alt="c" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/c++.png?raw=true" alt="c++" /></code>
 	</ul>
 </details>
 
