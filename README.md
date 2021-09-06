@@ -14,7 +14,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-- 🌱 I’m currently learning [Golang](https://golang.org/) and [Blender](https://www.blender.org/)
+- 🌱 I’m currently learning [C](https://www.cprogramming.com/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 😄 Pronouns: He/His
@@ -39,6 +39,7 @@
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/javascript.png?raw=true" alt="javascript" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/typescript.png?raw=true" alt="typescript" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/go.png?raw=true" alt="go" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/c.png?raw=true" alt="c" /></code>
 	</ul>
 </details>
 
