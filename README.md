@@ -10,7 +10,7 @@
 &nbsp; ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6IPfVhkqfcfBZCko6Q9mnQ?style=for-the-badge&logo=Youtube)
 &nbsp; ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6IPfVhkqfcfBZCko6Q9mnQ?style=for-the-badge&logo=Youtube)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Jonak-Adipta-Kalita&theme=juicyfresh&no-frame=true&row=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Jonak-Adipta-Kalita&theme=juicyfresh&no-frame=true&title=Commit,Stars,Repositories,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
