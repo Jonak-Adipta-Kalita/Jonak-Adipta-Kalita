@@ -14,7 +14,7 @@
 
 </div>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/gif.gif?raw=true" width="230" />
 
 - 🌱 I’m currently learning [C](https://www.cprogramming.com/) and [C++](https://isocpp.org/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
