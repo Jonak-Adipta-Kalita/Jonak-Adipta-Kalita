@@ -60,6 +60,10 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/opencv.png?raw=true" alt="opencv" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/pygame.png?raw=true" alt="pygame" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/raylib.png?raw=true" alt="raylib" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/sdl.png?raw=true" alt="sdl" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/arcade.png?raw=true" alt="arcade" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/ursina.png?raw=true" alt="ursina" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/panda3d.png?raw=true" alt="panda3d" /></code>
 	</ul>
 </details>
 
