@@ -103,6 +103,18 @@
 </details>
 
 <details>
+	<summary><b>My Favourite Games</b></summary>
+	<br />
+	<ul>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/brawl-stars.png?raw=true" alt="brawl-stars" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/minecraft.png?raw=true" alt="minecraft" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/pokemon-go.png?raw=true" alt="pokemon-go" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/among-us.png?raw=true" alt="among-us" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/krunker-io.png?raw=true" alt="krunker.io" /></code>
+	</ul>
+</details>
+
+<details>
 	<summary><b>Social Media</b></summary>
 	<br />
 	<ul>
