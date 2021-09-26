@@ -115,9 +115,10 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/re-run.png?raw=true" alt="re-run" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/jelly-drift.png?raw=true" alt="jelly-drift" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/one-hand-clapping.png?raw=true" alt="one-hand-clapping" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/cod-modern-warfar-3.png?raw=true" alt="cod-modern-warfar-3" /></code>
+		<br />
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/most-wanted-2005.png?raw=true" alt="most-wanted-2005" /></code>
 		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/most-wanted-2012.png?raw=true" alt="most-wanted-2012" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/cod-modern-warfar-3.png?raw=true" alt="cod-modern-warfar-3" /></code>
 	</ul>
 </details>
 
