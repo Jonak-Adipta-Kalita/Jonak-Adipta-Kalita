@@ -111,6 +111,12 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/pokemon-go.png?raw=true" alt="pokemon-go" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/among-us.png?raw=true" alt="among-us" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/krunker-io.png?raw=true" alt="krunker.io" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/human-fall-flat.png?raw=true" alt="human-fall-flat" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/re-run.png?raw=true" alt="re-run" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/jelly-drift.png?raw=true" alt="jelly-drift" /></code>
+		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/one-hand-clapping.png?raw=true" alt="one-hand-clapping" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/most-wanted-2005.png?raw=true" alt="most-wanted-2005" /></code>
+		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/fav-games/most-wanted-2012.png?raw=true" alt="most-wanted-2012" /></code>
 	</ul>
 </details>
 
