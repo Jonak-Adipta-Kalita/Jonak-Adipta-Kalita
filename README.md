@@ -162,12 +162,12 @@
 
 <div align="center">
 
-<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop?raw=true" alt="laptop" />
-<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile?raw=true" alt="mobile" />
-<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming?raw=true" alt="gaming" />
-<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books?raw=true" alt="books" />
-<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar?raw=true" alt="guitar" />
-<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting?raw=true" alt="painting" />
+<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/laptop.png?raw=true" alt="laptop" />
+<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/mobile.png?raw=true" alt="mobile" />
+<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/gaming.png?raw=true" alt="gaming" />
+<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/books.png?raw=true" alt="books" />
+<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/guitar.png?raw=true" alt="guitar" />
+<img height="50" width="50" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/octocat/painting.png?raw=true" alt="painting" />
 
 ### Show some ❤️ by Starring my Repositories & Following Me 😉!!
 
