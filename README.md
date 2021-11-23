@@ -16,16 +16,16 @@
 
 <img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/gif.gif?raw=true" width="230" />
 
-- 🌱 I’m currently learning [C](https://www.cprogramming.com/) and [C++](https://isocpp.org/)
-- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
-- 💬 Ask me about [Python](https://www.python.org/)
-- 😄 Pronouns: He/His
-- 🌐 Checkout my [Website][website]
-- ✨ Checkout my [API][api]
-- 🎈 Use my [Discord Template][discord_template]
-- 🤖 Use my [Discord Bot][discord_bot]
-- 👾 Checkout my [VSCode Extension][vscode_extension]
-- ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
+-   🌱 I’m currently learning [C](https://www.cprogramming.com/) and [C++](https://isocpp.org/)
+-   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
+-   💬 Ask me about [Python](https://www.python.org/)
+-   😄 Pronouns: He/His
+-   🌐 Checkout my [Website][website]
+-   ✨ Checkout my [API][api]
+-   🎈 Use my [Discord Template][discord_template]
+-   🤖 Use my [Discord Bot][discord_bot]
+-   👾 Checkout my [VSCode Extension][vscode_extension]
+-   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
 ## Listening on Spotify
 
@@ -158,6 +158,7 @@
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=10" />
 		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Jonak-Adipta-Kalita&theme=cobalt&hide_border=true" />
+		<a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://api.daily.dev/devcards/41a45e71622c4033ad6bada1345e04a3.png?r=g1c" width="400" alt="Jonak Adipta Kalita's Dev Card"/></a>
 	</div>
 </div>
 
