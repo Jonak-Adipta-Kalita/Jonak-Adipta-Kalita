@@ -16,3 +16,6 @@ jobs:
               uses: dailydotdev/action-devcard@2.0.4
               with:
                   devcard_id: ${{ secrets.DEVCARD_ID }}
+                  commit_branch: main
+                  commit_filename: images/devcard.svg
+                  commit_message: "updated daily.dev card"
