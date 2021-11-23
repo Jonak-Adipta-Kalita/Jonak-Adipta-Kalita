@@ -14,7 +14,7 @@
 
 </div>
 
-<a href="https://app.daily.dev/xxJonakAdiptaxx"><img align='right' src="https://api.daily.dev/devcards/41a45e71622c4033ad6bada1345e04a3.png?r=g1c" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
+<a href="https://app.daily.dev/xxJonakAdiptaxx"><img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
 
 -   🌱 I’m currently learning [C](https://www.cprogramming.com/) and [C++](https://isocpp.org/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
