@@ -27,7 +27,7 @@
 -   🎈 Use my [Discord Template][discord_template]
 -   🤖 Use my [Discord Bot][discord_bot]
 -	🎆 Join my [Discord Server][discord_server]
--   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
+-   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) being an Indian but I have never Tested it!!
 
 <br />
 
