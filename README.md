@@ -26,7 +26,6 @@
 -	🎵 Checkout my [Spotify Playlist][spotify_playlist]
 -   🎈 Use my [Discord Template][discord_template]
 -   🤖 Use my [Discord Bot][discord_bot]
--	🎆 Join my [Discord Server][discord_server]
 -   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) being an Indian but I have never Tested it!!
 
 <br />
@@ -186,4 +185,3 @@
 [spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
 [discord_template]: https://discord.new/3xd7Cj7um9Az
 [discord_bot]: https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot
-[discord_server]: https://discord.gg/S3UfGkW
