@@ -185,5 +185,5 @@
 [vscode_extension]: https://marketplace.visualstudio.com/items?itemName=JAKVSCodeExtension.jak-vscode-extension
 [spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
 [discord_template]: https://discord.new/3xd7Cj7um9Az
-[discord_bot]: https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot
+[discord_bot]: https://discord.com/api/oauth2/authorize?client_id=756402881913028689&permissions=8&scope=bot
 [reddit_community]: https://www.reddit.com/r/BeastNight_TV/
