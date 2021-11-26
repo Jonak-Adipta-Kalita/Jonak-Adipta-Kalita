@@ -26,6 +26,7 @@
 -	🎵 Checkout my [Spotify Playlist][spotify_playlist]
 -   🎈 Use my [Discord Template][discord_template]
 -   🤖 Use my [Discord Bot][discord_bot]
+-	🎆 Join my [Reddit Community][reddit_community]
 -   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) being an Indian but I have never Tested it!!
 
 <br />
@@ -140,7 +141,7 @@
 		<a href="https://www.instagram.com/xxjonakadiptaxx/?hl=en"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/instagram.png?raw=true" alt="instagram" /></code></a>
 		<a href="https://twitter.com/AdiptaJonak"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitter.png?raw=true" alt="twitter" /></code></a>
 		<a href="https://www.twitch.tv/jonakadiptakalita_2596"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitch.png?raw=true" alt="twitch" /></code></a>
-		<a href="https://www.reddit.com/r/BeastNight_TV/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/reddit.png?raw=true" alt="reddit" /></code></a>
+		<a href="https://www.reddit.com/user/BeastNight_TV/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/reddit.png?raw=true" alt="reddit" /></code></a>
 		<a href="https://steamcommunity.com/profiles/76561199052472963/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/steam.png?raw=true" alt="steam" /></code></a>
 	</ul>
 </details>
@@ -185,3 +186,4 @@
 [spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
 [discord_template]: https://discord.new/3xd7Cj7um9Az
 [discord_bot]: https://discord.com/oauth2/authorize?client_id=756402881913028689&scope=bot
+[reddit_community]: https://www.reddit.com/r/BeastNight_TV/
