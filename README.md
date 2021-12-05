@@ -115,6 +115,11 @@
 	<br />
 	<ul>
 		<!--START_SECTION:activity-->
+1. 🗣 Commented on [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/issues/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+2. 💪 Opened PR [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+3. 🎉 Merged PR [#6](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/6) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+4. 💪 Opened PR [#6](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/6) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+5. 🎉 Merged PR [#5](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/5) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
 		<!--END_SECTION:activity-->
 	</ul>
 </details>
