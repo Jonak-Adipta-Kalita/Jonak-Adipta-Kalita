@@ -115,11 +115,11 @@
 	<br />
 	<ul>
 		<!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/issues/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-2. 💪 Opened PR [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-3. 🎉 Merged PR [#6](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/6) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-4. 💪 Opened PR [#6](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/6) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
-5. 🎉 Merged PR [#5](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/5) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+1. ❗️ Opened issue [#122](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/122) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+2. ❗️ Opened issue [#46](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/46) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. 🗣 Commented on [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/issues/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+4. 💪 Opened PR [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+5. 🎉 Merged PR [#6](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/6) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
 		<!--END_SECTION:activity-->
 	</ul>
 </details>
