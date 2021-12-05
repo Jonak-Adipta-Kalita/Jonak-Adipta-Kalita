@@ -1,12 +1,9 @@
 name: dev_card
 
 on:
-    workflow_dispatch:
-    push:
-        branches:
-            - main
     schedule:
-        - cron: "0 0 * * *"
+        - cron: "*/30 * * * *"
+    workflow_dispatch:
 
 jobs:
     devcard:
