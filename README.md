@@ -112,7 +112,6 @@
 
 <details>
 	<summary><b>Recent Activities</b></summary>
-	<br />
 	<!--START_SECTION:activity-->
 
 1.  ❗️ Opened issue [#122](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/122) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
