@@ -18,15 +18,15 @@
 
 -   🌱 I’m currently learning [C](https://www.cprogramming.com/) and [C++](https://isocpp.org/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
--   💬 Ask me about [Python](https://www.python.org/)
+-   💬 Ask me about Web Dev
 -   😄 Pronouns: He/His
 -   🌐 Checkout my [Website][website]
 -   ✨ Checkout my [API][api]
 -   👾 Checkout my [VSCode Extension][vscode_extension]
--	🎵 Checkout my [Spotify Playlist][spotify_playlist]
+-   🎵 Checkout my [Spotify Playlist][spotify_playlist]
 -   🎈 Use my [Discord Template][discord_template]
 -   🤖 Use my [Discord Bot][discord_bot]
--	🎆 Join my [Reddit Community][reddit_community]
+-   🎆 Join my [Reddit Community][reddit_community]
 -   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) being an Indian but I have never Tested it!!
 
 <br />
@@ -107,6 +107,15 @@
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/recoil.png?raw=true" alt="recoil" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/redux.png?raw=true" alt="redux" /></code>
 		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/vercel.png?raw=true" alt="vercel" /></code>
+	</ul>
+</details>
+
+<details>
+	<summary><b>Recent Activities</b></summary>
+	<br />
+	<ul>
+		<!--START_SECTION:activity-->
+		<!--END_SECTION:activity-->
 	</ul>
 </details>
 

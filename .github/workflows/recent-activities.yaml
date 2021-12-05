@@ -1,0 +1,21 @@
+name: recent-activities
+
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+    schedule:
+        - cron: "0 0 * * *"
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: jamesgeorge007/github-activity-readme@master
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
+              with:
+                  MAX_LINES: 5
+                  COMMIT_MSG: "updated recent activities"
