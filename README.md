@@ -122,7 +122,6 @@
 5.  🎉 Merged PR [#6](https://github.com/TheBambooLeafHouse/leaf-tunes/pull/6) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
 
     <!--END_SECTION:activity-->
-
     </details>
 
 <details>
