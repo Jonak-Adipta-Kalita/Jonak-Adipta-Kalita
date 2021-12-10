@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#46](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/46) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. 🗣 Commented on [#46](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/46) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. ❗️ Opened issue [#122](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/122) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-4. ❗️ Opened issue [#46](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/46) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. 🗣 Commented on [#7](https://github.com/TheBambooLeafHouse/leaf-tunes/issues/7) in [TheBambooLeafHouse/leaf-tunes](https://github.com/TheBambooLeafHouse/leaf-tunes)
+1. ❌ Closed PR [#151](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/151) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❌ Closed PR [#149](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/149) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❌ Closed PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/146) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❌ Closed PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/145) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❌ Closed PR [#141](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/141) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
