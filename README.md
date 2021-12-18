@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#151](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/151) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❌ Closed PR [#149](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/149) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. ❌ Closed PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/146) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Closed PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/145) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❌ Closed PR [#141](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/141) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. ❗️ Opened issue [#19](https://github.com/petersolopov/carbonara/issues/19) in [petersolopov/carbonara](https://github.com/petersolopov/carbonara)
+2. ❌ Closed PR [#151](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/151) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❌ Closed PR [#149](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/149) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❌ Closed PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/146) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❌ Closed PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/145) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
