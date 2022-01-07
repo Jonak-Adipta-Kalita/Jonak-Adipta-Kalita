@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/petersolopov/carbonara/issues/19) in [petersolopov/carbonara](https://github.com/petersolopov/carbonara)
-2. ❗️ Opened issue [#19](https://github.com/petersolopov/carbonara/issues/19) in [petersolopov/carbonara](https://github.com/petersolopov/carbonara)
-3. ❌ Closed PR [#151](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/151) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Closed PR [#149](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/149) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❌ Closed PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/146) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🎉 Merged PR [#3](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/3) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
+2. 🎉 Merged PR [#2](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/2) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
+3. ❌ Closed PR [#29](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/29) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+4. ❌ Closed PR [#24](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/24) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+5. ❌ Closed PR [#28](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/28) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
 
     <!--END_SECTION:activity-->
     </details>
