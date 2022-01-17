@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/3) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
-2. 🎉 Merged PR [#2](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/2) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
-3. ❌ Closed PR [#29](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/29) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-4. ❌ Closed PR [#24](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/24) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-5. ❌ Closed PR [#28](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/28) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+1. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+2. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+3. ❗️ Opened issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+4. 💪 Opened PR [#49](https://github.com/LeafJSLabs/leaf.js/pull/49) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+5. 🎉 Merged PR [#3](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/3) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
 
     <!--END_SECTION:activity-->
     </details>
