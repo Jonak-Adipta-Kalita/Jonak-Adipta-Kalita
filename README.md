@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-2. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-3. ❗️ Opened issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-4. 💪 Opened PR [#49](https://github.com/LeafJSLabs/leaf.js/pull/49) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-5. 🎉 Merged PR [#3](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/3) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
+1. 🎉 Merged PR [#83](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/83) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+3. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+4. ❗️ Opened issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+5. 💪 Opened PR [#49](https://github.com/LeafJSLabs/leaf.js/pull/49) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
 
     <!--END_SECTION:activity-->
     </details>
