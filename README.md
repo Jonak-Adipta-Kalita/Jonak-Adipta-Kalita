@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#83](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/83) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-3. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-4. ❗️ Opened issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-5. 💪 Opened PR [#49](https://github.com/LeafJSLabs/leaf.js/pull/49) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
+1. ❗️ Opened issue [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/84) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Reopened PR [#58](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/58) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🎉 Merged PR [#83](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/83) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+5. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
 
     <!--END_SECTION:activity-->
     </details>
