@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/84) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. ❌ Reopened PR [#58](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/58) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. 🎉 Merged PR [#83](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/83) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-5. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
+1. 💪 Opened PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/88) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. ❗️ Opened issue [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/87) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. ❌ Closed PR [#82](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/82) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#80](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/80) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#77](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/77) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
