@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/88) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❗️ Opened issue [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/87) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. ❌ Closed PR [#82](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/82) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. ❌ Closed PR [#80](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/80) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. ❌ Closed PR [#77](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/77) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🗣 Commented on [#15](https://github.com/coreyward/react-portable-text/issues/15) in [coreyward/react-portable-text](https://github.com/coreyward/react-portable-text)
+2. 🗣 Commented on [#15](https://github.com/coreyward/react-portable-text/issues/15) in [coreyward/react-portable-text](https://github.com/coreyward/react-portable-text)
+3. 🗣 Commented on [#15](https://github.com/coreyward/react-portable-text/issues/15) in [coreyward/react-portable-text](https://github.com/coreyward/react-portable-text)
+4. 💪 Opened PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/88) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. ❗️ Opened issue [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/87) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
