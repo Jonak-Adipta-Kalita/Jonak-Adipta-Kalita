@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15](https://github.com/coreyward/react-portable-text/issues/15) in [coreyward/react-portable-text](https://github.com/coreyward/react-portable-text)
-2. 🗣 Commented on [#15](https://github.com/coreyward/react-portable-text/issues/15) in [coreyward/react-portable-text](https://github.com/coreyward/react-portable-text)
-3. 🗣 Commented on [#15](https://github.com/coreyward/react-portable-text/issues/15) in [coreyward/react-portable-text](https://github.com/coreyward/react-portable-text)
-4. 💪 Opened PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/88) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. ❗️ Opened issue [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/87) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+1. ❌ Closed PR [#90](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/90) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. ❌ Closed PR [#85](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/85) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. ❌ Closed PR [#89](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/89) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. ❌ Closed PR [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/84) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. ❌ Closed PR [#82](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/82) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
