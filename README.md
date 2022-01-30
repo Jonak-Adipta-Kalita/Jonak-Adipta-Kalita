@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#90](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/90) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❌ Closed PR [#85](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/85) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. ❌ Closed PR [#89](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/89) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. ❌ Closed PR [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/84) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. ❌ Closed PR [#82](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/82) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+1. ❗️ Opened issue [#89](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/89) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Closed PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/88) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❌ Closed PR [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/87) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#86](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/86) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#85](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/85) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
