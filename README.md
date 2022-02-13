@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#121](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/121) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❌ Closed PR [#119](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/119) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. ❌ Closed PR [#120](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/120) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. ❌ Closed PR [#118](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/118) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. ❌ Closed PR [#115](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/115) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+1. ❗️ Opened issue [#272](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/272) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❌ Closed PR [#271](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/271) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❌ Closed PR [#270](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/270) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❌ Closed PR [#268](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/268) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❌ Closed PR [#261](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/261) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
