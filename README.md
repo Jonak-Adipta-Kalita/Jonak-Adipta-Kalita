@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#272](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/272) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❌ Closed PR [#271](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/271) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. ❌ Closed PR [#270](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/270) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Closed PR [#268](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/268) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❌ Closed PR [#261](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/261) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. ❌ Closed PR [#104](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/104) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Closed PR [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/103) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❗️ Opened issue [#272](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/272) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❌ Closed PR [#271](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/271) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❌ Closed PR [#270](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/270) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
