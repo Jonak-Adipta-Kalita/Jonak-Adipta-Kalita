@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#104](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/104) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. ❌ Closed PR [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/103) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. ❗️ Opened issue [#272](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/272) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Closed PR [#271](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/271) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❌ Closed PR [#270](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/270) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🗣 Commented on [#19](https://github.com/samrat222/Pomodoro_APP/issues/19) in [samrat222/Pomodoro_APP](https://github.com/samrat222/Pomodoro_APP)
+2. ❌ Closed PR [#127](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/127) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. ❌ Closed PR [#126](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/126) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. ❌ Closed PR [#124](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/124) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. ❌ Closed PR [#122](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/122) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
