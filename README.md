@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/samrat222/Pomodoro_APP/issues/19) in [samrat222/Pomodoro_APP](https://github.com/samrat222/Pomodoro_APP)
-2. ❌ Closed PR [#127](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/127) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. ❌ Closed PR [#126](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/126) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. ❌ Closed PR [#124](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/124) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. ❌ Closed PR [#122](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/122) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+1. 🎉 Merged PR [#129](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/129) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. 🎉 Merged PR [#128](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/128) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. 🎉 Merged PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/88) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. ❗️ Closed issue [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/87) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. 🗣 Commented on [#104](https://github.com/DankMemer/dankmemer.lol/issues/104) in [DankMemer/dankmemer.lol](https://github.com/DankMemer/dankmemer.lol)
 
     <!--END_SECTION:activity-->
     </details>
