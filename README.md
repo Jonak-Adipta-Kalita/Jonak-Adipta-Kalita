@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#129](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/129) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. 🎉 Merged PR [#128](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/128) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. 🎉 Merged PR [#88](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/88) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. ❗️ Closed issue [#87](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/87) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. 🗣 Commented on [#104](https://github.com/DankMemer/dankmemer.lol/issues/104) in [DankMemer/dankmemer.lol](https://github.com/DankMemer/dankmemer.lol)
+1. ❗️ Closed issue [#272](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/272) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❌ Closed PR [#293](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/293) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❌ Closed PR [#292](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/292) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❌ Closed PR [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/291) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❌ Closed PR [#290](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/290) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
