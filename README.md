@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-2. 🗣 Commented on [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-3. ❗️ Opened issue [#43](https://github.com/Animenosekai/translate/issues/43) in [Animenosekai/translate](https://github.com/Animenosekai/translate)
-4. 💪 Opened PR [#49](https://github.com/LeafJSLabs/leaf.js/pull/49) in [LeafJSLabs/leaf.js](https://github.com/LeafJSLabs/leaf.js)
-5. 🎉 Merged PR [#3](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/3) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
+1. ❌ Closed PR [#51](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/51) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+2. ❌ Closed PR [#49](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/49) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+3. ❌ Closed PR [#36](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/36) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+4. ❌ Closed PR [#48](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/48) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+5. ❌ Closed PR [#34](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/34) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
 
     <!--END_SECTION:activity-->
     </details>
