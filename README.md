@@ -193,7 +193,7 @@
 
 </div>
 
-[website]: https://jonakadiptakalita.herokuapp.com
+[website]: https://jonakadiptakalita.vercel.app
 [api]: https://jak-api-dot-com.herokuapp.com
 [vscode_extension]: https://marketplace.visualstudio.com/items?itemName=JAKVSCodeExtension.jak-vscode-extension
 [spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
