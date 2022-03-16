@@ -114,10 +114,10 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#4](https://github.com/hatuanem199801/express-vercel/issues/4) in [hatuanem199801/express-vercel](https://github.com/hatuanem199801/express-vercel)
-2. ❗️ Opened issue [#1306](https://github.com/typicode/json-server/issues/1306) in [typicode/json-server](https://github.com/typicode/json-server)
-3. 🎉 Merged PR [#307](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/307) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Closed PR [#36](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/36) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+1. 🎉 Merged PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/146) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. ❗️ Opened issue [#4](https://github.com/hatuanem199801/express-vercel/issues/4) in [hatuanem199801/express-vercel](https://github.com/hatuanem199801/express-vercel)
+3. ❗️ Opened issue [#1306](https://github.com/typicode/json-server/issues/1306) in [typicode/json-server](https://github.com/typicode/json-server)
+4. 🎉 Merged PR [#307](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/307) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 5. ❌ Closed PR [#48](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/48) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
 
     <!--END_SECTION:activity-->
