@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#71](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/71) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-2. 🎉 Merged PR [#157](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/157) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. 🎉 Merged PR [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/154) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. 🗣 Commented on [#207](https://github.com/jellydn/next-swagger-doc/issues/207) in [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc)
-5. ❗️ Opened issue [#207](https://github.com/jellydn/next-swagger-doc/issues/207) in [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc)
+1. 🎉 Merged PR [#160](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/160) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. 🎉 Merged PR [#71](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/71) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
+3. 🎉 Merged PR [#157](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/157) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. 🎉 Merged PR [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/154) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. 🗣 Commented on [#207](https://github.com/jellydn/next-swagger-doc/issues/207) in [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc)
 
     <!--END_SECTION:activity-->
     </details>
