@@ -194,7 +194,7 @@
 </div>
 
 [website]: https://jonakadiptakalita.vercel.app
-[api]: https://jak-api-dot-com.herokuapp.com
+[api]: https://jak-api.vercel.app
 [vscode_extension]: https://marketplace.visualstudio.com/items?itemName=JAKVSCodeExtension.jak-vscode-extension
 [spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
 [discord_template]: https://discord.new/3xd7Cj7um9Az
