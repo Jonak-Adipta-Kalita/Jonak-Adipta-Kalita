@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#106](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/106) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-2. 🎉 Merged PR [#356](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/356) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🎉 Merged PR [#6](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/6) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
-4. ❌ Closed PR [#5](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/5) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
-5. 🎉 Merged PR [#4](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/pull/4) in [Jonak-Adipta-Kalita/Jonak-Adipta-Kalita](https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita)
+1. 🎉 Merged PR [#78](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/78) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+2. 🎉 Merged PR [#79](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/79) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+3. 🎉 Merged PR [#348](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/348) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🎉 Merged PR [#360](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/360) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🎉 Merged PR [#68](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/68) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
 
     <!--END_SECTION:activity-->
     </details>
