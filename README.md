@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#78](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/78) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-2. 🎉 Merged PR [#79](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/79) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-3. 🎉 Merged PR [#348](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/348) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#360](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/360) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🎉 Merged PR [#68](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/68) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+1. ❗️ Opened issue [#2](https://github.com/Jonak-Adipta-Kalita/JAK-Minecraft-Datapack/issues/2) in [Jonak-Adipta-Kalita/JAK-Minecraft-Datapack](https://github.com/Jonak-Adipta-Kalita/JAK-Minecraft-Datapack)
+2. 🎉 Merged PR [#78](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/78) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+3. 🎉 Merged PR [#79](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/79) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+4. 🎉 Merged PR [#348](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/348) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🎉 Merged PR [#360](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/360) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
