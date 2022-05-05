@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#186](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/186) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. 🎉 Merged PR [#184](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/184) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. 🎉 Merged PR [#235](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/235) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-4. 🎉 Merged PR [#66](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/66) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. 🎉 Merged PR [#367](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/367) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🎉 Merged PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/145) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. 🎉 Merged PR [#144](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package/pull/144) in [Jonak-Adipta-Kalita/JAK-JavaScript-Package](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package)
+3. 🎉 Merged PR [#186](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/186) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. 🎉 Merged PR [#184](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/184) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. 🎉 Merged PR [#235](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/235) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
 
     <!--END_SECTION:activity-->
     </details>
