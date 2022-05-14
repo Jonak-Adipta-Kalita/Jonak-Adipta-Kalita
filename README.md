@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/145) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🎉 Merged PR [#144](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package/pull/144) in [Jonak-Adipta-Kalita/JAK-JavaScript-Package](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package)
-3. 🎉 Merged PR [#186](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/186) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. 🎉 Merged PR [#184](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/184) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. 🎉 Merged PR [#235](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/235) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+1. 🎉 Merged PR [#269](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/269) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+2. 🎉 Merged PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/145) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🎉 Merged PR [#144](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package/pull/144) in [Jonak-Adipta-Kalita/JAK-JavaScript-Package](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package)
+4. 🎉 Merged PR [#186](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/186) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. 🎉 Merged PR [#184](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/184) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
