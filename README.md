@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#53](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/53) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-2. ❗️ Closed issue [#52](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/issues/52) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-3. 💪 Opened PR [#139](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/139) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-4. ❗️ Opened issue [#279](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/279) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-5. ❗️ Closed issue [#122](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/122) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+1. 🎉 Merged PR [#374](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/374) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❗️ Closed issue [#279](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/279) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+3. ❌ Closed PR [#53](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/53) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+4. ❗️ Closed issue [#52](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/issues/52) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+5. 💪 Opened PR [#139](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/139) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
 
     <!--END_SECTION:activity-->
     </details>
