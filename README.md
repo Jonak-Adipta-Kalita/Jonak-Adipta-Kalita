@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#374](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/374) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗️ Closed issue [#279](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/279) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-3. ❌ Closed PR [#53](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/53) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-4. ❗️ Closed issue [#52](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/issues/52) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-5. 💪 Opened PR [#139](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/139) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
+1. 🎉 Merged PR [#193](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/193) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. 🎉 Merged PR [#160](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/160) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🎉 Merged PR [#374](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/374) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❗️ Closed issue [#279](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/279) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+5. ❌ Closed PR [#53](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/53) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
 
     <!--END_SECTION:activity-->
     </details>
