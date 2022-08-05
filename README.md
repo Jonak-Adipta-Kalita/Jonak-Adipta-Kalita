@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#117](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/117) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-2. 🎉 Merged PR [#179](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/179) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. 🎉 Merged PR [#219](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package/pull/219) in [Jonak-Adipta-Kalita/JAK-JavaScript-Package](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package)
-4. 🎉 Merged PR [#336](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/336) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-5. 🎉 Merged PR [#349](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/349) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+1. ❗️ Closed issue [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/84) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. 🎉 Merged PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/162) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🎉 Merged PR [#117](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/117) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. 🎉 Merged PR [#179](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/179) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 🎉 Merged PR [#219](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package/pull/219) in [Jonak-Adipta-Kalita/JAK-JavaScript-Package](https://github.com/Jonak-Adipta-Kalita/JAK-JavaScript-Package)
 
     <!--END_SECTION:activity-->
     </details>
