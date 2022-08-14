@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#470](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/470) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗️ Opened issue [#469](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/469) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. ❗️ Closed issue [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/84) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. 🎉 Merged PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/162) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. 🎉 Merged PR [#117](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/117) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+1. 🗣 Commented on [#308](https://github.com/goatandsheep/react-native-dotenv/issues/308) in [goatandsheep/react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv)
+2. 💪 Opened PR [#470](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/470) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❗️ Opened issue [#469](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/469) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❗️ Closed issue [#84](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/84) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 🎉 Merged PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/162) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
