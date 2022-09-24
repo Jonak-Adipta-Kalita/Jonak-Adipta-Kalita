@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#248](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/248) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. 🎉 Merged PR [#245](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/245) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. 🎉 Merged PR [#228](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/228) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. ❗️ Opened issue [#246](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/246) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. 🗣 Commented on [#900](https://github.com/expo/eas-cli/issues/900) in [expo/eas-cli](https://github.com/expo/eas-cli)
+1. ❗️ Closed issue [#121](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/121) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+2. 🎉 Merged PR [#248](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/248) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. 🎉 Merged PR [#245](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/245) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. 🎉 Merged PR [#228](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/228) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. ❗️ Opened issue [#246](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/246) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
