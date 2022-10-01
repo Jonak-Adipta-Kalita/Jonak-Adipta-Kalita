@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.herokuapp.com/" target="_blank">Jonak</a>,
+## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.vercel.app/" target="_blank">Jonak</a>,
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Jonak-Adipta-Kalita?style=for-the-badge&logo=Github)
