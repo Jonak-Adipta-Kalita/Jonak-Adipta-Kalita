@@ -120,11 +120,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#160](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/160) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. 🎉 Merged PR [#71](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/71) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-3. 🎉 Merged PR [#157](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/157) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. 🎉 Merged PR [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/154) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. 🗣 Commented on [#207](https://github.com/jellydn/next-swagger-doc/issues/207) in [jellydn/next-swagger-doc](https://github.com/jellydn/next-swagger-doc)
+1. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/183) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+2. ❗️ Opened issue [#287](https://github.com/Jonak-Adipta-Kalita/JAK-API/issues/287) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
+3. ❗️ Closed issue [#121](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/121) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. 🎉 Merged PR [#248](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/248) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+5. 🎉 Merged PR [#245](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/245) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
