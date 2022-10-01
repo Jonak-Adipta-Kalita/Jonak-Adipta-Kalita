@@ -31,6 +31,12 @@
 
 <br />
 
+## Holopin Badge Board
+
+[![@xxjonakadiptaxx's Holopin board](https://holopin.io/api/user/board?user=xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
+
+<br />
+
 ## Listening on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&redirect=true)
