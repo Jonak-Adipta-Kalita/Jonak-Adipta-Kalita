@@ -118,11 +118,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/183) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-2. ❗️ Opened issue [#287](https://github.com/Jonak-Adipta-Kalita/JAK-API/issues/287) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-3. ❗️ Closed issue [#121](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/121) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-4. 🎉 Merged PR [#248](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/248) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. 🎉 Merged PR [#245](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/245) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+1. 💪 Opened PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/145) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. ❗️ Opened issue [#144](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/144) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+3. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/183) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
+4. ❗️ Opened issue [#287](https://github.com/Jonak-Adipta-Kalita/JAK-API/issues/287) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
+5. ❗️ Closed issue [#121](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/121) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
