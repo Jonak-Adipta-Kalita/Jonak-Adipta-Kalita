@@ -118,11 +118,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#250](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/250) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. 🎉 Merged PR [#254](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/254) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. 🎉 Merged PR [#148](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/148) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-4. 💪 Opened PR [#148](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/148) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. 💪 Opened PR [#407](https://github.com/kokonior/HTML-Projects/pull/407) in [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects)
+1. 🎉 Merged PR [#194](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/194) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/183) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🎉 Merged PR [#200](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/200) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. 💪 Opened PR [#200](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/200) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 🎉 Merged PR [#250](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/250) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
 
     <!--END_SECTION:activity-->
     </details>
