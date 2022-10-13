@@ -118,11 +118,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#194](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/194) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/183) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. 🎉 Merged PR [#200](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/200) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. 💪 Opened PR [#200](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/200) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. 🎉 Merged PR [#250](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/pull/250) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+1. ❗️ Closed issue [#34](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/34) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+2. 🎉 Merged PR [#194](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/194) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/183) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. 🎉 Merged PR [#200](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/200) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 💪 Opened PR [#200](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/200) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
