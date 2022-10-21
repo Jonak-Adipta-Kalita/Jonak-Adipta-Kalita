@@ -118,11 +118,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#421](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/421) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-2. 💪 Opened PR [#421](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/421) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-3. ❗️ Closed issue [#34](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/34) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-4. 🎉 Merged PR [#194](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/194) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. 🎉 Merged PR [#183](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/183) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 💪 Opened PR [#563](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/563) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🎉 Merged PR [#421](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/421) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+3. 💪 Opened PR [#421](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/421) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+4. ❗️ Closed issue [#34](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/34) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+5. 🎉 Merged PR [#194](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/194) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
