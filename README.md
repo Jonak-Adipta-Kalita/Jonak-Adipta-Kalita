@@ -113,11 +113,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#327](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/327) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-2. 💪 Opened PR [#327](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/327) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-3. 💪 Opened PR [#563](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/563) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#421](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/421) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-5. 💪 Opened PR [#421](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/421) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+1. 🎉 Merged PR [#149](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/149) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. 🎉 Merged PR [#565](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/565) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❌ Reopened PR [#565](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/565) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🎉 Merged PR [#452](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/452) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+5. 🎉 Merged PR [#251](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/251) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
 
     <!--END_SECTION:activity-->
     </details>
