@@ -16,7 +16,7 @@
 
 <a href="https://app.daily.dev/xxJonakAdiptaxx"><img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
 
--   🌱 I’m currently learning [Godot](https://godotengine.org/)
+-   🌱 I’m currently learning [Java](https://www.java.com/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 -   💬 Ask me about Web Dev
 -   😄 Pronouns: He/His
