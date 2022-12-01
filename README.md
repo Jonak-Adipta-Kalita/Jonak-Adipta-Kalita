@@ -192,10 +192,10 @@
 
 </div>
 
-[website]: https://jonakadiptakalita.vercel.app
-[api]: https://jak-api.vercel.app
+[website]: https://jonakadiptakalita.tk/
+[api]: https://api.jonakadiptakalita.tk/
 [vscode_extension]: https://marketplace.visualstudio.com/items?itemName=JAKVSCodeExtension.jak-vscode-extension
 [spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
 [discord_template]: https://discord.new/3xd7Cj7um9Az
-[discord_bot]: https://jak-discord-bot.vercel.app/
+[discord_bot]: https://discord-bot.jonakadiptakalita.tk/
 [reddit_community]: https://www.reddit.com/r/BeastNight_TV/
