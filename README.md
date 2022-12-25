@@ -166,7 +166,7 @@
 		<li><b>PC: </b>Laptop</li>
 		<li><b>OS: </b>Windows 10 Pro</li>
 		<li><b>Processor: </b>Intel Core i3 5th Generation</li>
-		<li><b>RAM: </b>4GB</li>
+		<li><b>RAM: </b>8GB</li>
 	</ul>
 </details>
 
