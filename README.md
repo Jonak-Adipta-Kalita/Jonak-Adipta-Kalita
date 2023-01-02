@@ -22,7 +22,7 @@
 -   😄 Pronouns: He/His
 -   🎵 Checkout my [Spotify Playlist][spotify_playlist]
 -   🎈 Use my [Discord Template][discord_template]
--   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) being an Indian but I have never Tested it!!
+-   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) even though no one thought I ate it!!
 
 <br />
 <br />
