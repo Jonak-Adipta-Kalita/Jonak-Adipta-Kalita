@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/291) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❗️ Opened issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-3. 🎉 Merged PR [#565](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/565) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Reopened PR [#565](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/565) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🎉 Merged PR [#452](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/452) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+1. ❌ Closed PR [#147](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/147) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+2. ❌ Closed PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/146) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+3. ❌ Closed PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/145) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+4. ❌ Closed PR [#143](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/143) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+5. ❌ Closed PR [#142](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/142) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
 
     <!--END_SECTION:activity-->
     </details>
