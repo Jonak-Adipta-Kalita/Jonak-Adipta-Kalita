@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#147](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/147) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
-2. ❌ Closed PR [#146](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/146) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
-3. ❌ Closed PR [#145](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/145) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
-4. ❌ Closed PR [#143](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/143) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
-5. ❌ Closed PR [#142](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/142) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+1. 🎉 Merged PR [#230](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/230) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Reopened PR [#230](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/230) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❌ Closed PR [#147](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/147) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. ❌ Closed PR [#142](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/142) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. ❌ Closed PR [#139](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/139) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 
     <!--END_SECTION:activity-->
     </details>
