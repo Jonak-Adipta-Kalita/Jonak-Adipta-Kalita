@@ -115,10 +115,10 @@
 	<!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#312](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/312) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❗️ Opened issue [#312](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/312) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-3. 🎉 Merged PR [#230](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/230) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. ❌ Reopened PR [#230](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/230) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. ❌ Closed PR [#147](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/147) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. 🗣 Commented on [#312](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/312) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. ❗️ Opened issue [#312](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/312) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+4. 🎉 Merged PR [#230](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/230) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Reopened PR [#230](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/230) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
