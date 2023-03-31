@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#271](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/271) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🗣 Commented on [#8](https://github.com/Tom-the-Bomb/akinator.py/issues/8) in [Tom-the-Bomb/akinator.py](https://github.com/Tom-the-Bomb/akinator.py)
-3. ❗️ Closed issue [#90](https://github.com/Jonak-Adipta-Kalita/JAK-API/issues/90) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-4. ❗️ Closed issue [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/291) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-5. ❗️ Opened issue [#8](https://github.com/Tom-the-Bomb/akinator.py/issues/8) in [Tom-the-Bomb/akinator.py](https://github.com/Tom-the-Bomb/akinator.py)
+1. 🗣 Commented on [#68153](https://github.com/godotengine/godot/issues/68153) in [godotengine/godot](https://github.com/godotengine/godot)
+2. 🗣 Commented on [#68153](https://github.com/godotengine/godot/issues/68153) in [godotengine/godot](https://github.com/godotengine/godot)
+3. 🗣 Commented on [#502](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/502) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+4. ❗️ Opened issue [#502](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/502) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+5. ❗️ Opened issue [#1](https://github.com/Jonak-Adipta-Kalita/JAK-Minecraft-Modpack/issues/1) in [Jonak-Adipta-Kalita/JAK-Minecraft-Modpack](https://github.com/Jonak-Adipta-Kalita/JAK-Minecraft-Modpack)
 
     <!--END_SECTION:activity-->
     </details>
