@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#68153](https://github.com/godotengine/godot/issues/68153) in [godotengine/godot](https://github.com/godotengine/godot)
-2. 🗣 Commented on [#68153](https://github.com/godotengine/godot/issues/68153) in [godotengine/godot](https://github.com/godotengine/godot)
-3. 🗣 Commented on [#502](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/502) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-4. ❗️ Opened issue [#502](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/issues/502) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
-5. ❗️ Opened issue [#1](https://github.com/Jonak-Adipta-Kalita/JAK-Minecraft-Modpack/issues/1) in [Jonak-Adipta-Kalita/JAK-Minecraft-Modpack](https://github.com/Jonak-Adipta-Kalita/JAK-Minecraft-Modpack)
+1. 🎉 Merged PR [#649](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/649) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🎉 Merged PR [#648](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/648) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🎉 Merged PR [#632](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/632) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🎉 Merged PR [#633](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/633) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❗️ Opened issue [#647](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/647) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
