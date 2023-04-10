@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/291) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❗️ Opened issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-3. 🎉 Merged PR [#565](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/565) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❌ Reopened PR [#565](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/565) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🎉 Merged PR [#452](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension/pull/452) in [Jonak-Adipta-Kalita/JAK-VSCode-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-VSCode-Extension)
+1. ❌ Closed PR [#97](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/97) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+2. ❌ Closed PR [#98](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/98) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+3. ❌ Closed PR [#92](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/92) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+4. ❌ Closed PR [#91](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/91) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+5. ❌ Closed PR [#90](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/90) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
 
     <!--END_SECTION:activity-->
     </details>
