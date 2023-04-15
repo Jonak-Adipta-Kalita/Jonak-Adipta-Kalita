@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/Crane-Foundation/Crane/pull/3) in [Crane-Foundation/Crane](https://github.com/Crane-Foundation/Crane)
-2. ❗️ Opened issue [#101](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/101) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-3. ❗️ Closed issue [#100](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/100) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-4. 🗣 Commented on [#100](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/100) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-5. 💪 Opened PR [#1](https://github.com/Crane-Lang/Crane/pull/1) in [Crane-Lang/Crane](https://github.com/Crane-Lang/Crane)
+1. ❗️ Opened issue [#655](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/655) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 💪 Opened PR [#3](https://github.com/Crane-Foundation/Crane/pull/3) in [Crane-Foundation/Crane](https://github.com/Crane-Foundation/Crane)
+3. ❗️ Opened issue [#101](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/101) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+4. ❗️ Closed issue [#100](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/100) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+5. 🗣 Commented on [#100](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/100) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
 
     <!--END_SECTION:activity-->
     </details>
