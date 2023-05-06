@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#656](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/656) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗️ Closed issue [#647](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/647) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🎉 Merged PR [#651](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/651) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🗣 Commented on [#299](https://github.com/CSFrequency/react-firebase-hooks/issues/299) in [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
-5. 🗣 Commented on [#9](https://github.com/Tom-the-Bomb/akinator.py/issues/9) in [Tom-the-Bomb/akinator.py](https://github.com/Tom-the-Bomb/akinator.py)
+1. ❗️ Opened issue [#86](https://github.com/skx/monkey/issues/86) in [skx/monkey](https://github.com/skx/monkey)
+2. 🎉 Merged PR [#656](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/656) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❗️ Closed issue [#647](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/647) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🎉 Merged PR [#651](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/651) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🗣 Commented on [#299](https://github.com/CSFrequency/react-firebase-hooks/issues/299) in [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
 
     <!--END_SECTION:activity-->
     </details>
