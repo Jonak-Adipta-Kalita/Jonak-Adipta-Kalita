@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#86](https://github.com/skx/monkey/issues/86) in [skx/monkey](https://github.com/skx/monkey)
-2. 🗣 Commented on [#86](https://github.com/skx/monkey/issues/86) in [skx/monkey](https://github.com/skx/monkey)
-3. ❗️ Opened issue [#86](https://github.com/skx/monkey/issues/86) in [skx/monkey](https://github.com/skx/monkey)
-4. 🎉 Merged PR [#656](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/656) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❗️ Closed issue [#647](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/647) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🎉 Merged PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 💪 Opened PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🎉 Merged PR [#252](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/252) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Reopened PR [#252](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/252) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 🗣 Commented on [#235](https://github.com/microsoft/vsmarketplace/issues/235) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
 
     <!--END_SECTION:activity-->
     </details>
