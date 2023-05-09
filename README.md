@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#97](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/97) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-2. ❌ Closed PR [#98](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/98) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-3. ❌ Closed PR [#92](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/92) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-4. ❌ Closed PR [#91](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/91) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-5. ❌ Closed PR [#90](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/pull/90) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+1. 🎉 Merged PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 💪 Opened PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🎉 Merged PR [#252](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/252) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Reopened PR [#252](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/252) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 🗣 Commented on [#235](https://github.com/microsoft/vsmarketplace/issues/235) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
 
     <!--END_SECTION:activity-->
     </details>
