@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#88](https://github.com/skx/monkey/issues/88) in [skx/monkey](https://github.com/skx/monkey)
-2. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
+1. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
+2. ❗️ Opened issue [#88](https://github.com/skx/monkey/issues/88) in [skx/monkey](https://github.com/skx/monkey)
 3. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
-4. ❗️ Opened issue [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
-5. 🎉 Merged PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
+5. ❗️ Opened issue [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
 
     <!--END_SECTION:activity-->
     </details>
