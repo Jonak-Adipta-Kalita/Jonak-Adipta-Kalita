@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. 💪 Opened PR [#659](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/659) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🎉 Merged PR [#252](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/252) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. ❌ Reopened PR [#252](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/252) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. 🗣 Commented on [#235](https://github.com/microsoft/vsmarketplace/issues/235) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
+1. 💪 Opened PR [#898](https://github.com/codecrafters-io/build-your-own-x/pull/898) in [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+2. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
+3. ❗️ Opened issue [#88](https://github.com/skx/monkey/issues/88) in [skx/monkey](https://github.com/skx/monkey)
+4. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
+5. 🗣 Commented on [#87](https://github.com/skx/monkey/issues/87) in [skx/monkey](https://github.com/skx/monkey)
 
     <!--END_SECTION:activity-->
     </details>
