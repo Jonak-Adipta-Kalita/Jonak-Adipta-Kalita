@@ -173,7 +173,7 @@
 <div align='center'>
 	<div style="display: flex;">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=14" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonak-Adipta-Kalita&layout=compact&theme=cobalt&show_icons=true&hide_border=true&langs_count=6" />
 		<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Jonak-Adipta-Kalita&theme=cobalt&hide_border=true" />
 	</div>
 </div>
