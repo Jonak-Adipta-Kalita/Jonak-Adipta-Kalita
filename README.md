@@ -114,11 +114,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#329](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/329) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
-2. ❗️ Opened issue [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/154) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-3. ❗️ Opened issue [#662](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/662) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#661](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/661) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 💪 Opened PR [#898](https://github.com/codecrafters-io/build-your-own-x/pull/898) in [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+1. ❗️ Opened issue [#664](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/664) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❗️ Opened issue [#329](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot/issues/329) in [Jonak-Adipta-Kalita/JAK-Discord-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Discord-Bot)
+3. ❗️ Opened issue [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/154) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. ❗️ Opened issue [#662](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/662) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🎉 Merged PR [#661](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/661) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
