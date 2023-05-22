@@ -10,6 +10,8 @@
 &nbsp; ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6IPfVhkqfcfBZCko6Q9mnQ?style=for-the-badge&logo=Youtube)
 &nbsp; ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6IPfVhkqfcfBZCko6Q9mnQ?style=for-the-badge&logo=Youtube)
 
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png?_gl=1*2kkadt*_ga*MjA2ODA3NzMwNi4xNjg0NzIyODQy*_ga_M13FZ7VQ2C*MTY4NDcyMjg0MS4xLjEuMTY4NDcyNjI0Mi41Ni4wLjA.)](https://ko-fi.com/xxjonakadiptaxx)
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Jonak-Adipta-Kalita&theme=juicyfresh&no-frame=true&title=Commit,Stars,Repositories,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
