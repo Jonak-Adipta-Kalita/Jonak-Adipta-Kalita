@@ -117,11 +117,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. 🔒 Closed issue [#664](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/664) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🔒 Closed issue [#678](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/678) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#679](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/679) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 💪 Opened PR [#679](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/679) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🎉 Merged PR [#681](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/681) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🗣 Commented on [#43](https://github.com/danish1658/react-native-dropdown-select-list/issues/43) in [danish1658/react-native-dropdown-select-list](https://github.com/danish1658/react-native-dropdown-select-list)
+3. 🗣 Commented on [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🔒 Closed issue [#664](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/664) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🔒 Closed issue [#678](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/678) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
     <!--END_SECTION:activity-->
     </details>
