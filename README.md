@@ -117,11 +117,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#668](https://github.com/hossein-zare/react-native-dropdown-picker/issues/668) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
-2. 🎉 Merged PR [#681](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/681) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🗣 Commented on [#43](https://github.com/danish1658/react-native-dropdown-select-list/issues/43) in [danish1658/react-native-dropdown-select-list](https://github.com/danish1658/react-native-dropdown-select-list)
-4. 🗣 Commented on [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🔒 Closed issue [#664](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/664) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. ❗ Opened issue [#299](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/299) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. 🔒 Closed issue [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🗣 Commented on [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🚀 Published release [Release 1.2.0](https://github.com/Release 1.2.0) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🗣 Commented on [#668](https://github.com/hossein-zare/react-native-dropdown-picker/issues/668) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
 
     <!--END_SECTION:activity-->
     </details>
