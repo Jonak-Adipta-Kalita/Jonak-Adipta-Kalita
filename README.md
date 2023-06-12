@@ -117,11 +117,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#299](https://github.com/Jonak-Adipta-Kalita/JAK-Website/issues/299) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🔒 Closed issue [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🗣 Commented on [#677](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/677) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🚀 Published release [Release 1.2.0](https://github.com/Release 1.2.0) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🗣 Commented on [#668](https://github.com/hossein-zare/react-native-dropdown-picker/issues/668) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+1. 💪 Opened PR [#300](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/300) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Closed PR [#298](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/298) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❌ Closed PR [#297](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/297) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/291) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#296](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/296) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
