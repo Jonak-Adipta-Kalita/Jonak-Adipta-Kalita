@@ -117,11 +117,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#300](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/300) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. ❌ Closed PR [#298](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/298) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. ❌ Closed PR [#297](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/297) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. ❌ Closed PR [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/291) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. ❌ Closed PR [#296](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/296) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🗣 Commented on [#151](https://github.com/jaketrent/react-social-icons/issues/151) in [jaketrent/react-social-icons](https://github.com/jaketrent/react-social-icons)
+2. 💪 Opened PR [#300](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/300) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❌ Closed PR [#298](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/298) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#297](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/297) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#291](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/291) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
