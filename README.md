@@ -18,13 +18,13 @@
 
 <a href="https://app.daily.dev/xxJonakAdiptaxx"><img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
 
--   🌱 I’m currently learning [Godot](https://godotengine.org/)
+-   🌱 I’m currently learning [Figma](https://figma.com/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 -   💬 Ask me about Coding
 -   😄 Pronouns: He/His
 -   🎵 Checkout my [Spotify Playlist][spotify_playlist]
 -   🎈 Use my [Discord Template][discord_template]
--   ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) even though no one thought I ate it!!
+-   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
 
 <br />
 <br />
