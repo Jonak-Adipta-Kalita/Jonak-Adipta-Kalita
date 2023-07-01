@@ -50,6 +50,8 @@
 
 <!--END_SECTION:activity-->
 
+<br />
+
 <div align='center'>
 	<div style="display: flex;">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonak-Adipta-Kalita&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
