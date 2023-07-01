@@ -39,81 +39,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&redirect=true)
 
 <details>
-	<summary><b>Languages</b></summary>
-	<br/>
-	<ul>
-  	    <code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/python.png?raw=true" alt="python" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/html.png?raw=true" alt="html" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/css.png?raw=true" alt="css" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/javascript.png?raw=true" alt="javascript" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/typescript.png?raw=true" alt="typescript" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/go.png?raw=true" alt="go" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/c.png?raw=true" alt="c" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/languages/c++.png?raw=true" alt="c++" /></code>
-	</ul>
-</details>
-
-<details>
-	<summary><b>Frameworks</b></summary>
-	<br/>
-	<ul>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/django.ico?raw=true" alt="django" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/react.png?raw=true" alt="react" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/react-native.png?raw=true" alt="react-native" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/next.png?raw=true" alt="next" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/bootstrap.png?raw=true" alt="bootstrap" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/tailwind.png?raw=true" alt="tailwind" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/svelte.png?raw=true" alt="svelte" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/opencv.png?raw=true" alt="opencv" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/pygame.png?raw=true" alt="pygame" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/raylib.png?raw=true" alt="raylib" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/sdl.png?raw=true" alt="sdl" /></code>
-		<br />
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/arcade.png?raw=true" alt="arcade" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/ursina.png?raw=true" alt="ursina" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/panda3d.png?raw=true" alt="panda3d" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/frameworks/electron.png?raw=true" alt="electron" /></code>
-	</ul>
-</details>
-
-<details>
-	<summary><b>Tools</b></summary>
-	<br/>
-	<ul>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/photoshop.png?raw=true" alt="adobe-photoshop" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/terminal.png?raw=true" alt="terminal" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/visual-studio-code.png?raw=true" alt="vscode" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/pycharm.png?raw=true" alt="pycharm" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/webstorm.png?raw=true" alt="webstorm" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/goland.png?raw=true" alt="goland" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/heroku.ico?raw=true" alt="heroku" /></code>
-		<code><img height="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/git.ico?raw=true" alt="git" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/font-awesome.ico?raw=true" alt="font-awesome" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/netlify.png?raw=true" alt="netlify" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/firebase.ico?raw=true" alt="firebase" /></code>
-		<br />
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/audacity.png?raw=true" alt="audacity" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/node-js.png?raw=true" alt="node-js" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/postman.png?raw=true" alt="postman" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/snyk.png?raw=true" alt="snyk" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/blender.png?raw=true" alt="blender" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/obs.png?raw=true" alt="obs" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/canva.png?raw=true" alt="canva" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/expo.png?raw=true" alt="expo" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/openshot.png?raw=true" alt="openshot" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/arduino.png?raw=true" alt="arduino" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/rapid-api.png?raw=true" alt="rapid-api" /></code>
-		<br />
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/sheilds-io.png?raw=true" alt="sheilds.io" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/codepen.png?raw=true" alt="codepen" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/replit.png?raw=true" alt="replit" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/recoil.png?raw=true" alt="recoil" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/redux.png?raw=true" alt="redux" /></code>
-		<code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/tools/vercel.png?raw=true" alt="vercel" /></code>
-	</ul>
-</details>
-
-<details>
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
@@ -124,33 +49,6 @@
 5. 🎉 Merged PR [#288](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/288) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
-    </details>
-
-<details>
-	<summary><b>Social Media</b></summary>
-	<br />
-	<ul>
-		<a href="https://github.com/Jonak-Adipta-Kalita"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/github.png?raw=true" alt="github" /></code></a>
-		<a href="https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/spotify.png?raw=true" alt="spotify" /></code></a>
-		<a href="https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/youtube.png?raw=true" alt="youtube" /></code></a>
-		<a href="https://discord.gg/S3UfGkW"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/discord.png?raw=true" alt="discord" /></code></a>
-		<a href="https://www.instagram.com/xxjonakadiptaxx/?hl=en"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/instagram.png?raw=true" alt="instagram" /></code></a>
-		<a href="https://twitter.com/AdiptaJonak"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitter.png?raw=true" alt="twitter" /></code></a>
-		<a href="https://www.twitch.tv/jonakadiptakalita_2596"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/twitch.png?raw=true" alt="twitch" /></code></a>
-		<a href="https://www.reddit.com/user/BeastNight_TV/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/reddit.png?raw=true" alt="reddit" /></code></a>
-		<a href="https://steamcommunity.com/profiles/76561199052472963/"><code><img height="25" width="25" src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/social_media/steam.png?raw=true" alt="steam" /></code></a>
-	</ul>
-</details>
-
-<details>
-	<summary><b>PC Specs</b></summary>
-	<br/>
-	<ul>
-		<li><b>PC: </b>Laptop</li>
-		<li><b>OS: </b>Windows 10 Pro</li>
-		<li><b>Processor: </b>Intel Core i3 5th Generation</li>
-		<li><b>RAM: </b>8GB</li>
-	</ul>
 </details>
 
 <div align='center'>
