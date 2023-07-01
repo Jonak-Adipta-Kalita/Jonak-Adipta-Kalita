@@ -117,11 +117,11 @@
 	<summary><b>Recent Activities</b></summary>
 	<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#666](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/666) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗️ Opened issue [#182](https://github.com/awesomejerry/react-native-qrcode-svg/issues/182) in [awesomejerry/react-native-qrcode-svg](https://github.com/awesomejerry/react-native-qrcode-svg)
-3. ❗️ Closed issue [#665](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/665) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❗️ Opened issue [#665](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/665) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❗️ Opened issue [#664](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/664) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🔒 Closed issue [#684](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/684) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🔒 Closed issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🎉 Merged PR [#686](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/686) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❗ Opened issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🎉 Merged PR [#288](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/288) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
     <!--END_SECTION:activity-->
     </details>
