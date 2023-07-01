@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.vercel.app/" target="_blank">Jonak</a>,
+## Yo Bois, 🤘 Its me <a href="https://jonakadiptakalita.tk" target="_blank">Jonak</a>,
 
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Jonak-Adipta-Kalita?style=for-the-badge&logo=Github)
@@ -22,8 +22,6 @@
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 -   💬 Ask me about Coding
 -   😄 Pronouns: He/His
--   🎵 Checkout my [Spotify Playlist][spotify_playlist]
--   🎈 Use my [Discord Template][discord_template]
 -   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
 
 <br />
@@ -76,9 +74,3 @@
 </div>
 
 [website]: https://jonakadiptakalita.tk/
-[api]: https://api.jonakadiptakalita.tk/
-[vscode_extension]: https://marketplace.visualstudio.com/items?itemName=JAKVSCodeExtension.jak-vscode-extension
-[spotify_playlist]: https://open.spotify.com/playlist/2ELGMEL5ZkEvsScjmWNfo5?si=2adee71194994230
-[discord_template]: https://discord.new/3xd7Cj7um9Az
-[discord_bot]: https://discord-bot.jonakadiptakalita.tk/
-[reddit_community]: https://www.reddit.com/r/BeastNight_TV/
