@@ -38,9 +38,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&redirect=true)
 
-<details>
-	<summary><b>Recent Activities</b></summary>
-	<!--START_SECTION:activity-->
+## Recent Activities
+
+<!--START_SECTION:activity-->
 
 1. 🔒 Closed issue [#684](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/684) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 2. 🔒 Closed issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
@@ -48,8 +48,7 @@
 4. ❗ Opened issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 5. 🎉 Merged PR [#288](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/288) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
-    <!--END_SECTION:activity-->
-</details>
+<!--END_SECTION:activity-->
 
 <div align='center'>
 	<div style="display: flex;">
