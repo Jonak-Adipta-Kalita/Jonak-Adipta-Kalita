@@ -18,6 +18,8 @@ Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
 Plug 'https://github.com/lalitmee/cobalt2.nvim' " Cobalt2 Colorscheme
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
+Plug 'https://github.com/iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' } " Markdown Preview
+Plug 'https://github.com/sainnhe/everforest' " Theme
 
 set encoding=UTF-8
 
@@ -33,7 +35,7 @@ nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
 
-" lua require('colorbuddy').colorscheme('cobalt2')
+:colorscheme everforest
 
 " --- Just Some Notes ---
 " :PlugClean :PlugInstall :UpdateRemotePlugins

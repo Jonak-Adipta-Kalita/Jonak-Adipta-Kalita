@@ -16,6 +16,8 @@
 
 </div>
 
+<div justify='center'>
+
 <a href="https://app.daily.dev/xxJonakAdiptaxx"><img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
 
 -   🌱 I’m currently learning [Figma](https://figma.com/)
@@ -23,6 +25,8 @@
 -   💬 Ask me about Coding
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
+
+<div />
 
 <br />
 <br />
