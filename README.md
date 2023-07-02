@@ -28,14 +28,6 @@
 
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ## Holopin Badge Board
 
 [![@xxjonakadiptaxx's Holopin board](https://holopin.io/api/user/board?user=xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
