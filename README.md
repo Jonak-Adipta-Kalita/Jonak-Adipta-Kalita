@@ -16,9 +16,7 @@
 
 </div>
 
-<div justify='center'>
-
-<a href="https://app.daily.dev/xxJonakAdiptaxx"><img align='right' src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
 -   🌱 I’m currently learning [Figma](https://figma.com/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
@@ -26,7 +24,9 @@
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
 
-<div />
+<a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
+
+</div>
 
 <br />
 <br />

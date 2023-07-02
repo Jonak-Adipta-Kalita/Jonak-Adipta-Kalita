@@ -19,8 +19,6 @@ Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple c
 Plug 'https://github.com/lalitmee/cobalt2.nvim' " Cobalt2 Colorscheme
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
 Plug 'https://github.com/iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' } " Markdown Preview
-Plug 'tjdevries/colorbuddy.nvim'
-Plug 'lalitmee/cobalt2.nvim'
 
 set encoding=UTF-8
 
@@ -36,7 +34,6 @@ nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
 
-lua require("colorbuddy").colorscheme("cobalt2")
 " --- Just Some Notes ---
 " :PlugClean :PlugInstall :UpdateRemotePlugins
 "
