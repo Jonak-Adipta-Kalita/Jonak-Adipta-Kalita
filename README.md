@@ -16,7 +16,9 @@
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<br />
+
+<a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card" align='right'/></a>
 
 -   🌱 I’m currently learning [Figma](https://figma.com/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
@@ -24,9 +26,7 @@
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
 
-<a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="230" alt="Jonak Adipta Kalita's Dev Card"/></a>
-
-</div>
+<br />
 
 ## Holopin Badge Board
 
