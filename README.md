@@ -18,7 +18,7 @@
 
 <br />
 
-<a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="100" alt="Jonak Adipta Kalita's Dev Card" align='right'/></a>
+<a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="150" alt="Jonak Adipta Kalita's Dev Card" align='right'/></a>
 
 -   🌱 I’m currently learning [Figma](https://figma.com/)
 -   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
