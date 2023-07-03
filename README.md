@@ -41,10 +41,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 🔒 Closed issue [#684](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/684) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🔒 Closed issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#686](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/686) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❗ Opened issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+4. 🔒 Closed issue [#684](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/684) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🔒 Closed issue [#685](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/685) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
