@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#322](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/322) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🚀 Published release [Release 1.2.1](https://github.com/Release 1.2.1) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-4. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-5. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. ❌ Closed PR [#326](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/326) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Closed PR [#325](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/325) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❌ Closed PR [#327](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/327) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#324](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/324) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#323](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/323) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
 <!--END_SECTION:activity-->
 
