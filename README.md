@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#326](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/326) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. ❌ Closed PR [#325](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/325) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. ❌ Closed PR [#327](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/327) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. ❌ Closed PR [#324](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/324) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. ❌ Closed PR [#323](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/323) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🎉 Merged PR [#411](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/411) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
+2. ❗ Opened issue [#414](https://github.com/Jonak-Adipta-Kalita/JAK-API/issues/414) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
+3. ❌ Closed PR [#326](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/326) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#325](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/325) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#327](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/327) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
 <!--END_SECTION:activity-->
 
