@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#694](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/694) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. 🗣 Commented on [#30](https://github.com/feathericons/feather/issues/30#issuecomment-1663159381) in [feathericons/feather](https://github.com/feathericons/feather)
-3. 🎉 Merged PR [#333](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/333) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-4. ❗ Opened issue [#347](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/issues/347) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
-5. 🗣 Commented on [#30](https://github.com/feathericons/feather/issues/30#issuecomment-1656523588) in [feathericons/feather](https://github.com/feathericons/feather)
+1. 🚀 Published release [Release 1.2.2](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.2) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❗ Opened issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🔒 Closed issue [#694](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/694) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🗣 Commented on [#30](https://github.com/feathericons/feather/issues/30#issuecomment-1663159381) in [feathericons/feather](https://github.com/feathericons/feather)
+5. 🎉 Merged PR [#333](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App/pull/333) in [Jonak-Adipta-Kalita/JAK-Desktop-App](https://github.com/Jonak-Adipta-Kalita/JAK-Desktop-App)
 
 <!--END_SECTION:activity-->
 
