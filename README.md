@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. 🚀 Published release [Release 1.2.2](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.2) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. ❗ Opened issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🔒 Closed issue [#694](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/694) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🗣 Commented on [#30](https://github.com/feathericons/feather/issues/30#issuecomment-1663159381) in [feathericons/feather](https://github.com/feathericons/feather)
+1. ❗ Opened issue [#1](https://github.com/0vm/account-age-exploit/issues/1) in [0vm/account-age-exploit](https://github.com/0vm/account-age-exploit)
+2. 🔒 Closed issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🚀 Published release [Release 1.2.2](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.2) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❗ Opened issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🔒 Closed issue [#694](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/694) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
