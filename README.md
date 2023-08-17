@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/VeepCream/recoil-outside/issues/1) in [VeepCream/recoil-outside](https://github.com/VeepCream/recoil-outside)
-2. ❗ Opened issue [#1](https://github.com/0vm/account-age-exploit/issues/1) in [0vm/account-age-exploit](https://github.com/0vm/account-age-exploit)
-3. 🔒 Closed issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🚀 Published release [Release 1.2.2](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.2) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❗ Opened issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🎉 Merged PR [#697](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/697) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. ❗ Opened issue [#1](https://github.com/VeepCream/recoil-outside/issues/1) in [VeepCream/recoil-outside](https://github.com/VeepCream/recoil-outside)
+3. ❗ Opened issue [#1](https://github.com/0vm/account-age-exploit/issues/1) in [0vm/account-age-exploit](https://github.com/0vm/account-age-exploit)
+4. 🔒 Closed issue [#695](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/695) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🚀 Published release [Release 1.2.2](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.2) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
