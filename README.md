@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#699](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/699) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗ Opened issue [#699](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/699) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. ❗ Opened issue [#698](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/698) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#697](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/697) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❗ Opened issue [#1](https://github.com/VeepCream/recoil-outside/issues/1) in [VeepCream/recoil-outside](https://github.com/VeepCream/recoil-outside)
+1. 🗣 Commented on [#1](https://github.com/0vm/account-age-exploit/issues/1#issuecomment-1701287805) in [0vm/account-age-exploit](https://github.com/0vm/account-age-exploit)
+2. 🔒 Closed issue [#699](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/699) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❗ Opened issue [#699](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/699) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❗ Opened issue [#698](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/698) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🎉 Merged PR [#697](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/697) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
