@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#690](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/690) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. 🎉 Merged PR [#688](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/688) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🎉 Merged PR [#411](https://github.com/Jonak-Adipta-Kalita/JAK-API/pull/411) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-4. ❗ Opened issue [#414](https://github.com/Jonak-Adipta-Kalita/JAK-API/issues/414) in [Jonak-Adipta-Kalita/JAK-API](https://github.com/Jonak-Adipta-Kalita/JAK-API)
-5. ❌ Closed PR [#326](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/326) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🗣 Commented on [#158](https://github.com/couetilc/react-social-icons/pull/158#issuecomment-1706675414) in [couetilc/react-social-icons](https://github.com/couetilc/react-social-icons)
+2. 🔒 Closed issue [#690](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/690) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🚀 Published release [Release 1.2.3](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.3) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🔒 Closed issue [#693](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/693) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 🗣 Commented on [#1](https://github.com/0vm/account-age-exploit/issues/1#issuecomment-1701287805) in [0vm/account-age-exploit](https://github.com/0vm/account-age-exploit)
 
 <!--END_SECTION:activity-->
 
