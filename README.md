@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#335](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/335) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🚀 Published release [1.2.0](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool/releases/tag/1.2.0) in [Jonak-Adipta-Kalita/JAK-Command-Line-Tool](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool)
-3. 🎉 Merged PR [#7](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool/pull/7) in [Jonak-Adipta-Kalita/JAK-Command-Line-Tool](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool)
-4. 🚀 Published release [Release 1.2.4](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/1.2.4) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🗣 Commented on [#158](https://github.com/couetilc/react-social-icons/pull/158#issuecomment-1706675414) in [couetilc/react-social-icons](https://github.com/couetilc/react-social-icons)
+1. 🎉 Merged PR [#159](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/159) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+2. 🎉 Merged PR [#158](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/158) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
+3. 🎉 Merged PR [#335](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/335) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. 🚀 Published release [1.2.0](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool/releases/tag/1.2.0) in [Jonak-Adipta-Kalita/JAK-Command-Line-Tool](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool)
+5. 🎉 Merged PR [#7](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool/pull/7) in [Jonak-Adipta-Kalita/JAK-Command-Line-Tool](https://github.com/Jonak-Adipta-Kalita/JAK-Command-Line-Tool)
 
 <!--END_SECTION:activity-->
 
