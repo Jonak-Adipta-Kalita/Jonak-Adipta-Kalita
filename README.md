@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#68153](https://github.com/godotengine/godot/issues/68153#issuecomment-1742101277) in [godotengine/godot](https://github.com/godotengine/godot)
-2. 🗣 Commented on [#1306](https://github.com/typicode/json-server/issues/1306#issuecomment-1732551001) in [typicode/json-server](https://github.com/typicode/json-server)
-3. 🎉 Merged PR [#159](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/159) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
-4. 🎉 Merged PR [#158](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot/pull/158) in [Jonak-Adipta-Kalita/JAK-Telegram-Bot](https://github.com/Jonak-Adipta-Kalita/JAK-Telegram-Bot)
-5. 🎉 Merged PR [#335](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/335) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🔒 Closed issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. 🔓 Reopened issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+3. 🔒 Closed issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. 💪 Opened PR [#158](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/158) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. 🎉 Merged PR [#157](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/157) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 
 <!--END_SECTION:activity-->
 
