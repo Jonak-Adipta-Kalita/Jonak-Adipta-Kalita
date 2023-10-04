@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-2. 🔓 Reopened issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+1. 🔒 Closed issue [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/154) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. 🎉 Merged PR [#158](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/158) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 3. 🔒 Closed issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-4. 💪 Opened PR [#158](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/158) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. 🎉 Merged PR [#157](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/157) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. 🔓 Reopened issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. 🔒 Closed issue [#150](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/150) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 
 <!--END_SECTION:activity-->
 
