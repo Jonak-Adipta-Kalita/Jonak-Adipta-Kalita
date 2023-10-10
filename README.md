@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1306](https://github.com/typicode/json-server/issues/1306) in [typicode/json-server](https://github.com/typicode/json-server)
-2. 💪 Opened PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/162) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-3. 🎉 Merged PR [#161](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/161) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-4. 💪 Opened PR [#161](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/161) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. 🔒 Closed issue [#154](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/154) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+1. 🎉 Merged PR [#703](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/703) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 💪 Opened PR [#704](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/704) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🔒 Closed issue [#1306](https://github.com/typicode/json-server/issues/1306) in [typicode/json-server](https://github.com/typicode/json-server)
+4. 💪 Opened PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/162) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. 🎉 Merged PR [#161](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/161) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 
 <!--END_SECTION:activity-->
 
