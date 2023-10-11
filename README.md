@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#703](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/703) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. 💪 Opened PR [#704](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/704) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🔒 Closed issue [#1306](https://github.com/typicode/json-server/issues/1306) in [typicode/json-server](https://github.com/typicode/json-server)
-4. 💪 Opened PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/162) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. 🎉 Merged PR [#161](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/161) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+1. ❗ Opened issue [#706](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/706) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🚀 Published release [Release 2.0.0](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/2.0.0) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🎉 Merged PR [#704](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/704) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 🎉 Merged PR [#703](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/703) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 💪 Opened PR [#704](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/704) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
