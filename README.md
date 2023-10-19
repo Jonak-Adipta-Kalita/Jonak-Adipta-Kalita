@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#162](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/162) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-2. ❗ Opened issue [#706](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/706) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 🚀 Published release [Release 2.0.0](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/2.0.0) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 🎉 Merged PR [#704](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/704) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🎉 Merged PR [#703](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/703) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768723157) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768708084) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+3. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768703111) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. 💪 Opened PR [#171](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/171) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. ❗ Opened issue [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 
 <!--END_SECTION:activity-->
 
