@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768723157) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-2. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768708084) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-3. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768703111) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-4. 💪 Opened PR [#171](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/171) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. ❗ Opened issue [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+1. 🎉 Merged PR [#172](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/172) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+2. 🎉 Merged PR [#352](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/352) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768723157) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+4. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768708084) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768703111) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
 
 <!--END_SECTION:activity-->
 
