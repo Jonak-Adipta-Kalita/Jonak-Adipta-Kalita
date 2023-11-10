@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#242](https://github.com/ryo-ma/github-profile-trophy/issues/242#issuecomment-1784089441) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-2. 🎉 Merged PR [#172](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/172) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-3. 🎉 Merged PR [#352](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/352) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-4. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768723157) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
-5. 🗣 Commented on [#170](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/issues/170#issuecomment-1768708084) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+1. 🎉 Merged PR [#708](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/708) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+2. 🎉 Merged PR [#707](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/707) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🗣 Commented on [#242](https://github.com/ryo-ma/github-profile-trophy/issues/242#issuecomment-1784089441) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+4. 🎉 Merged PR [#172](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension/pull/172) in [Jonak-Adipta-Kalita/JAK-Chrome-Extension](https://github.com/Jonak-Adipta-Kalita/JAK-Chrome-Extension)
+5. 🎉 Merged PR [#352](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/352) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
 <!--END_SECTION:activity-->
 
