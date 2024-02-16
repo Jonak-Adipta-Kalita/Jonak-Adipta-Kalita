@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
-2. ❗ Opened issue [#710](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/710) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 💪 Opened PR [#7](https://github.com/moiSentineL/moisentinel.github.io/pull/7) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
-4. 🗣 Commented on [#385](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/385#issuecomment-1937779909) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-5. 🗣 Commented on [#242](https://github.com/ryo-ma/github-profile-trophy/issues/242#issuecomment-1937010126) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+1. 🗣 Commented on [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10#issuecomment-1945261915) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
+2. ❗ Opened issue [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
+3. ❗ Opened issue [#710](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/710) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. 💪 Opened PR [#7](https://github.com/moiSentineL/moisentinel.github.io/pull/7) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
+5. 🗣 Commented on [#385](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/385#issuecomment-1937779909) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
 <!--END_SECTION:activity-->
 
