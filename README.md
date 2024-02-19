@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10#issuecomment-1945261915) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
-2. ❗ Opened issue [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
-3. ❗ Opened issue [#710](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/710) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. 💪 Opened PR [#7](https://github.com/moiSentineL/moisentinel.github.io/pull/7) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
-5. 🗣 Commented on [#385](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/385#issuecomment-1937779909) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🗣 Commented on [#927](https://github.com/hackclub/dinosaurs/pull/927#issuecomment-1951401221) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+2. 💪 Opened PR [#927](https://github.com/hackclub/dinosaurs/pull/927) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+3. 🗣 Commented on [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10#issuecomment-1945261915) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
+4. ❗ Opened issue [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
+5. ❗ Opened issue [#710](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/710) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
