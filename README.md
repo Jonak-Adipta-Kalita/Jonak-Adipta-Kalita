@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#712](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/712) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗ Opened issue [#928](https://github.com/hackclub/dinosaurs/issues/928) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-3. 🗣 Commented on [#927](https://github.com/hackclub/dinosaurs/pull/927#issuecomment-1951401221) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 💪 Opened PR [#927](https://github.com/hackclub/dinosaurs/pull/927) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-5. 🗣 Commented on [#10](https://github.com/moiSentineL/moisentinel.github.io/issues/10#issuecomment-1945261915) in [moiSentineL/moisentinel.github.io](https://github.com/moiSentineL/moisentinel.github.io)
+1. ❗ Opened issue [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/103) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+2. 🎉 Merged PR [#712](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/712) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. ❗ Opened issue [#928](https://github.com/hackclub/dinosaurs/issues/928) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+4. 🗣 Commented on [#927](https://github.com/hackclub/dinosaurs/pull/927#issuecomment-1951401221) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+5. 💪 Opened PR [#927](https://github.com/hackclub/dinosaurs/pull/927) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 
 <!--END_SECTION:activity-->
 
