@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/103) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-2. 🎉 Merged PR [#712](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/712) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. ❗ Opened issue [#928](https://github.com/hackclub/dinosaurs/issues/928) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 🗣 Commented on [#927](https://github.com/hackclub/dinosaurs/pull/927#issuecomment-1951401221) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-5. 💪 Opened PR [#927](https://github.com/hackclub/dinosaurs/pull/927) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+1. ❗ Opened issue [#168](https://github.com/Jonak-Adipta-Kalita/JAK-Python-Package/issues/168) in [Jonak-Adipta-Kalita/JAK-Python-Package](https://github.com/Jonak-Adipta-Kalita/JAK-Python-Package)
+2. ❗ Opened issue [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/103) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
+3. 🎉 Merged PR [#712](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/712) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+4. ❗ Opened issue [#928](https://github.com/hackclub/dinosaurs/issues/928) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+5. 🗣 Commented on [#927](https://github.com/hackclub/dinosaurs/pull/927#issuecomment-1951401221) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 
 <!--END_SECTION:activity-->
 
