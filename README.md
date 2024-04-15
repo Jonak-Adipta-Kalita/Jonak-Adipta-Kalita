@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#713](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/713) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-2. ❗ Opened issue [#168](https://github.com/Jonak-Adipta-Kalita/JAK-Python-Package/issues/168) in [Jonak-Adipta-Kalita/JAK-Python-Package](https://github.com/Jonak-Adipta-Kalita/JAK-Python-Package)
-3. ❗ Opened issue [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/103) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
-4. 🎉 Merged PR [#712](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/712) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. ❗ Opened issue [#928](https://github.com/hackclub/dinosaurs/issues/928) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+1. 🎉 Merged PR [#1](https://github.com/Jonak-Adipta-Kalita/dictatemyhomework/pull/1) in [Jonak-Adipta-Kalita/dictatemyhomework](https://github.com/Jonak-Adipta-Kalita/dictatemyhomework)
+2. 🗣 Commented on [#1](https://github.com/Jonak-Adipta-Kalita/dictatemyhomework/pull/1#issuecomment-2054062301) in [Jonak-Adipta-Kalita/dictatemyhomework](https://github.com/Jonak-Adipta-Kalita/dictatemyhomework)
+3. 💪 Opened PR [#406](https://github.com/hackclub/blot/pull/406) in [hackclub/blot](https://github.com/hackclub/blot)
+4. ❗ Opened issue [#713](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/713) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. ❗ Opened issue [#103](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language/issues/103) in [Jonak-Adipta-Kalita/JAK-Programming-Language](https://github.com/Jonak-Adipta-Kalita/JAK-Programming-Language)
 
 <!--END_SECTION:activity-->
 
