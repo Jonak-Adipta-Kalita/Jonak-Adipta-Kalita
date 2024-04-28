@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#406](https://github.com/hackclub/blot/pull/406#issuecomment-2075276510) in [hackclub/blot](https://github.com/hackclub/blot)
-2. ❗ Opened issue [#717](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/717) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-3. 💪 Opened PR [#716](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/716) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-4. ❗ Opened issue [#715](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/715) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 💪 Opened PR [#1593](https://github.com/hackclub/sprig/pull/1593) in [hackclub/sprig](https://github.com/hackclub/sprig)
+1. 🗣 Commented on [#27085](https://github.com/expo/expo/issues/27085#issuecomment-2080875250) in [expo/expo](https://github.com/expo/expo)
+2. 🔒 Closed issue [#698](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/698) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+3. 🗣 Commented on [#406](https://github.com/hackclub/blot/pull/406#issuecomment-2075276510) in [hackclub/blot](https://github.com/hackclub/blot)
+4. ❗ Opened issue [#717](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/717) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+5. 💪 Opened PR [#716](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/pull/716) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
 
 <!--END_SECTION:activity-->
 
