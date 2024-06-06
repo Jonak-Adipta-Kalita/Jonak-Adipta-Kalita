@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/moiSentineL/flomo/pull/4) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-2. 🗣 Commented on [#1621](https://github.com/hackclub/sprig/pull/1621#issuecomment-2125597793) in [hackclub/sprig](https://github.com/hackclub/sprig)
-3. 🗣 Commented on [#27085](https://github.com/expo/expo/issues/27085#issuecomment-2094256659) in [expo/expo](https://github.com/expo/expo)
-4. ❗ Opened issue [#719](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/issues/719) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
-5. 🚀 Published release [2.1.0](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App/releases/tag/2.1.0) in [Jonak-Adipta-Kalita/JAK-Mobile-App](https://github.com/Jonak-Adipta-Kalita/JAK-Mobile-App)
+1. ❗ Opened issue [#15](https://github.com/moiSentineL/flomo/issues/15) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+2. 🔓 Reopened issue [#8](https://github.com/moiSentineL/flomo/issues/8) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+3. ❗ Opened issue [#11](https://github.com/moiSentineL/flomo/issues/11) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+4. ❗ Opened issue [#10](https://github.com/moiSentineL/flomo/issues/10) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+5. ❗ Opened issue [#9](https://github.com/moiSentineL/flomo/issues/9) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 
 <!--END_SECTION:activity-->
 
