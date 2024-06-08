@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#27](https://github.com/moiSentineL/flomo/pull/27) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-2. 🎉 Merged PR [#23](https://github.com/moiSentineL/flomo/pull/23) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-3. 💪 Opened PR [#23](https://github.com/moiSentineL/flomo/pull/23) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-4. 💪 Opened PR [#22](https://github.com/moiSentineL/flomo/pull/22) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-5. 💪 Opened PR [#20](https://github.com/moiSentineL/flomo/pull/20) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+1. 🎉 Merged PR [#31](https://github.com/moiSentineL/flomo/pull/31) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+2. 💪 Opened PR [#31](https://github.com/moiSentineL/flomo/pull/31) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+3. 🎉 Merged PR [#30](https://github.com/moiSentineL/flomo/pull/30) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+4. 💪 Opened PR [#30](https://github.com/moiSentineL/flomo/pull/30) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+5. 🎉 Merged PR [#29](https://github.com/moiSentineL/flomo/pull/29) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 
 <!--END_SECTION:activity-->
 
