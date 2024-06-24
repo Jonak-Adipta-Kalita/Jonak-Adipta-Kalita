@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#41](https://github.com/moiSentineL/flomo/pull/41) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-2. 🔒 Closed issue [#40](https://github.com/moiSentineL/flomo/issues/40) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-3. 🎉 Merged PR [#39](https://github.com/moiSentineL/flomo/pull/39) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-4. 🎉 Merged PR [#4](https://github.com/Jonak-Adipta-Kalita/flomo/pull/4) in [Jonak-Adipta-Kalita/flomo](https://github.com/Jonak-Adipta-Kalita/flomo)
-5. 🗣 Commented on [#38](https://github.com/moiSentineL/flomo/pull/38#issuecomment-2180220344) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+1. 🎉 Merged PR [#41](https://github.com/moiSentineL/flomo/pull/41) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+2. 🗣 Commented on [#41](https://github.com/moiSentineL/flomo/pull/41#issuecomment-2185011353) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+3. 💪 Opened PR [#41](https://github.com/moiSentineL/flomo/pull/41) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+4. 🔒 Closed issue [#40](https://github.com/moiSentineL/flomo/issues/40) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+5. 🎉 Merged PR [#39](https://github.com/moiSentineL/flomo/pull/39) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 
 <!--END_SECTION:activity-->
 
