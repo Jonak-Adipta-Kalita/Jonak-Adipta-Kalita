@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#53](https://github.com/moiSentineL/flomo/issues/53#issuecomment-2248516146) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-2. 🗣 Commented on [#64](https://github.com/moiSentineL/flomo/issues/64#issuecomment-2248397737) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-3. 🗣 Commented on [#63](https://github.com/moiSentineL/flomo/issues/63#issuecomment-2248396726) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-4. 🗣 Commented on [#62](https://github.com/moiSentineL/flomo/issues/62#issuecomment-2248395890) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-5. 🗣 Commented on [#61](https://github.com/moiSentineL/flomo/issues/61#issuecomment-2248395282) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+1. 💪 Opened PR [#65](https://github.com/moiSentineL/flomo/pull/65) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+2. 🗣 Commented on [#53](https://github.com/moiSentineL/flomo/issues/53#issuecomment-2248516146) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+3. 🗣 Commented on [#64](https://github.com/moiSentineL/flomo/issues/64#issuecomment-2248397737) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+4. 🗣 Commented on [#63](https://github.com/moiSentineL/flomo/issues/63#issuecomment-2248396726) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+5. 🗣 Commented on [#62](https://github.com/moiSentineL/flomo/issues/62#issuecomment-2248395890) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 
 <!--END_SECTION:activity-->
 
