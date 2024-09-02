@@ -1,0 +1,13 @@
+{
+    "default_session_data": {
+        "tag": "study",
+        "name": "Studying"
+    },
+    "notification_priority": "high",
+    "tag_colors": {
+        "work": "magenta",
+        "study": "blue",
+        "exercise": "green",
+		"coding": "cyan"
+    }
+}
