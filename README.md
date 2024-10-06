@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/2) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-2. 🎉 Merged PR [#1](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/1) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-3. 💪 Opened PR [#1](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/1) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-4. 🚀 Published release [Release v1.1.0](https://github.com/moiSentineL/flomo/releases/tag/v1.1.0) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-5. 🗣 Commented on [#77](https://github.com/moiSentineL/flomo/pull/77#issuecomment-2330840730) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+1. 💪 Opened PR [#3](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/3) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+2. 🎉 Merged PR [#2](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/2) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+3. 💪 Opened PR [#2](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/2) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+4. 🎉 Merged PR [#1](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/1) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+5. 💪 Opened PR [#1](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/1) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
 
 <!--END_SECTION:activity-->
 
