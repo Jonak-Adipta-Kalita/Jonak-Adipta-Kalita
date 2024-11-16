@@ -56,7 +56,7 @@ require("lazy").setup({
 			"terryma/vim-multiple-cursors",
 		}
 	},
-
+	
 	ui = {
 		border = "double",
 		size = {
