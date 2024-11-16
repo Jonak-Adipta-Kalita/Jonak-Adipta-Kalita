@@ -1,1 +1,2 @@
-require("jonak")
+require("plugin_manager")
+require("settings")
