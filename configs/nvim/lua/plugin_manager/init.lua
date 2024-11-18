@@ -23,4 +23,6 @@ require("lazy").setup({
 			height = 0.8,
 		},
 	},
+
+	change_detection = { notify = false }
 })
