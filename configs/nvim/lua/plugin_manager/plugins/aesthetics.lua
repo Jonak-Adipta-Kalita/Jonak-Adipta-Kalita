@@ -17,4 +17,12 @@ return {
 	{
 		"preservim/nerdtree",
 	},
+
+	{
+		"ap/vim-css-color",
+	},
+	{
+		"terryma/vim-multiple-cursors",
+		lazy = true,
+	}
 }
