@@ -14,40 +14,7 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-	spec = {
-		{
-			"folke/tokyonight.nvim",
-			lazy = false,
-			priority = 1000,
-			config = function()
-				vim.cmd([[colorscheme tokyonight-night]])
-			end,
-		},
-		{
-			"iamcco/markdown-preview.nvim",
-			cmd = { "MarkdownPreviewToggle", "MarkdownPreview", "MarkdownPreviewStop" },
-			build = "cd app && yarn install",
-			init = function()
-				vim.g.mkdp_filetypes = { "markdown" }
-			end,
-			ft = { "markdown" },
-		},
-		{
-			"vim-airline/vim-airline",
-		},
-		{
-			"preservim/nerdtree"
-		},
-		{
-			"ap/vim-css-color"
-		},
-		{
-			"ryanoasis/vim-devicons",
-		},
-		{
-			"terryma/vim-multiple-cursors",
-		}
-	},
+	spec = "plugin_manager.plugins",
 	
 	ui = {
 		border = "double",
