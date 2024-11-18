@@ -32,7 +32,7 @@ return {
         require("mason-lspconfig").setup({
             ensure_installed = {
 				"pylsp",
-				"ts_lsp",
+				"ts_ls",
 				"clangd",
 				"gopls",
 				"rust_analyzer",
