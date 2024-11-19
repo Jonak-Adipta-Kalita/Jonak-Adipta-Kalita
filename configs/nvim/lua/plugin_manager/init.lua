@@ -15,7 +15,7 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
 	spec = "plugin_manager.plugins",
-	
+
 	ui = {
 		border = "double",
 		size = {

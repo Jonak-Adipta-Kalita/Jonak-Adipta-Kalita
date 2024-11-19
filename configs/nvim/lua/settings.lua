@@ -1,3 +1,5 @@
+-- Make :q go to NERDDirectoryViewer
+
 vim.opt.number = true
 vim.opt.autoindent = true
 vim.opt.tabstop = 4

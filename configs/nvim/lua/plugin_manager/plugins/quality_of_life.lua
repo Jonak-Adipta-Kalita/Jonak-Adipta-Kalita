@@ -79,7 +79,7 @@ return {
 				settings = {
 					Lua = {
 						diagnostics = {
-							globals = {"vim"}
+							globals = { "vim" }
 						}
 					}
 				}
@@ -114,13 +114,7 @@ return {
 			vim.cmd([[
 			  augroup format_on_save
 				autocmd!
-				autocmd BufWritePre *.lua :lua vim.lsp.buf.format()
-			  augroup END
-			]])
-			vim.cmd([[
-			  augroup format_on_save
-				autocmd!
-				autocmd BufWritePre *.py :silent !autopep8 --in-place --aggressive %
+				autocmd BufWritePre *.py,*.lua :lua vim.lsp.buf.format()
 			  augroup END
 			]])
 		end
