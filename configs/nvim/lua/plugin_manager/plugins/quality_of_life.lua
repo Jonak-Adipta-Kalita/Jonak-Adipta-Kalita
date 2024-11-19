@@ -75,6 +75,16 @@ return {
 				},
 			})
 
+			require("lspconfig").lua_ls.setup {
+				settings = {
+					Lua = {
+						diagnostics = {
+							globals = {"vim"}
+						}
+					}
+				}
+			}
+
 			local cmp_select = { behavior = cmp.SelectBehavior.Select }
 			cmp.setup({
 				mapping = cmp.mapping.preset.insert({
@@ -114,7 +124,6 @@ return {
 			  augroup END
 			]])
 		end
-
 	},
 	{
 		"windwp/nvim-autopairs",
@@ -161,5 +170,6 @@ return {
 			local cmp_autopairs = require("nvim-autopairs.completion.cmp")
 			local cmp = require("cmp")
 			cmp.event:on("confirm_done", cmp_autopairs.on_confirm_done())
-		end,
-	} }
+		end
+	}
+}
