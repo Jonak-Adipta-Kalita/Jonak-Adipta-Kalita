@@ -10,5 +10,7 @@ vim.opt.completeopt = vim.o.completeopt:gsub("preview", "")
 
 vim.g.NERDTreeDirArrowExpandable = "+"
 vim.g.NERDTreeDirArrowCollapsible = "~"
+vim.g.NERDTreeWinPos = "right"
+vim.g.NERDTreeWinSize = 50
 
 vim.keymap.set('n', '<C-t>', ':NERDTreeToggle<CR>', { noremap = true, silent = true })
