@@ -24,5 +24,9 @@ return {
 	{
 		"terryma/vim-multiple-cursors",
 		lazy = true,
+	},
+	{
+		"wakatime/vim-wakatime",
+		lazy = false
 	}
 }
