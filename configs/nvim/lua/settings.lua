@@ -12,7 +12,6 @@ vim.g.NERDTreeDirArrowExpandable = "+"
 vim.g.NERDTreeDirArrowCollapsible = "~"
 vim.g.NERDTreeWinPos = "right"
 vim.g.NERDTreeWinSize = 50
-
-vim.keymap.set('n', '<C-t>', ':NERDTreeToggle<CR>', { noremap = true, silent = true })
-
 vim.g.NERDTreeShowHidden = 1
+
+vim.keymap.set("n", "<C-t>", ":NERDTreeToggle<CR>", { noremap = true, silent = true })

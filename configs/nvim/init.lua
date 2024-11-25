@@ -1,2 +1,2 @@
-require("plugin_manager")
 require("settings")
+require("plugin_manager")
