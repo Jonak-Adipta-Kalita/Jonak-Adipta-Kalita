@@ -14,3 +14,5 @@ vim.g.NERDTreeWinPos = "right"
 vim.g.NERDTreeWinSize = 50
 
 vim.keymap.set('n', '<C-t>', ':NERDTreeToggle<CR>', { noremap = true, silent = true })
+
+vim.g.NERDTreeShowHidden = 1

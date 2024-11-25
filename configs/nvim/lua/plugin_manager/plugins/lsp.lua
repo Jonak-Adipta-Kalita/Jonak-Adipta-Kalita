@@ -30,7 +30,8 @@ return {
 			},
 			ensure_installed = {
 				"stylua",
-				"autopep8"
+				"autopep8",
+				"clang-format"
 			}
 		})
 
@@ -54,7 +55,8 @@ return {
 			},
 		})
 
-		require("lspconfig").lua_ls.setup {
+		local lspconfig = require("lspconfig")
+		lspconfig.lua_ls.setup {
 			settings = {
 				Lua = {
 					diagnostics = {
@@ -93,7 +95,7 @@ return {
 		vim.cmd([[
 		  augroup format_on_save
 			autocmd!
-			autocmd BufWritePre *.py,*.lua :lua vim.lsp.buf.format()
+			autocmd BufWritePre *.py,*.lua,*.c :lua vim.lsp.buf.format()
 		  augroup END
 		]])
 	end
