@@ -31,7 +31,9 @@ return {
 			ensure_installed = {
 				"stylua",
 				"autopep8",
-				"clang-format"
+				"clang-format",
+				"prettierd",
+				"eslint_d"
 			}
 		})
 
@@ -69,9 +71,9 @@ return {
 		local cmp_select = { behavior = cmp.SelectBehavior.Select }
 		cmp.setup({
 			mapping = cmp.mapping.preset.insert({
-				['<C-k>'] = cmp.mapping.select_prev_item(cmp_select),
-				['<C-j>'] = cmp.mapping.select_next_item(cmp_select),
-				['<TAB>'] = cmp.mapping.confirm({ select = true }),
+				["<C-k>"] = cmp.mapping.select_prev_item(cmp_select),
+				["<C-j>"] = cmp.mapping.select_next_item(cmp_select),
+				["<TAB>"] = cmp.mapping.confirm({ select = true }),
 				["<C-Space>"] = cmp.mapping.complete(),
 			}),
 			sources = cmp.config.sources({
@@ -95,7 +97,7 @@ return {
 		vim.cmd([[
 		  augroup format_on_save
 			autocmd!
-			autocmd BufWritePre *.py,*.lua,*.c :lua vim.lsp.buf.format()
+			autocmd BufWritePre *.py,*.lua,*.c,*.js,*.ts,*.jsx,*.tsx :lua vim.lsp.buf.format()
 		  augroup END
 		]])
 	end
