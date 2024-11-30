@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#13](https://github.com/moiSentineL/dicto/issues/13) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-2. 💪 Opened PR [#1](https://github.com/moiSentineL/grade11-cs-ip/pull/1) in [moiSentineL/grade11-cs-ip](https://github.com/moiSentineL/grade11-cs-ip)
-3. 🎉 Merged PR [#5](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/5) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-4. 💪 Opened PR [#5](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/5) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-5. 💪 Opened PR [#4](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/4) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+1. ❗ Opened issue [#1350](https://github.com/nativewind/nativewind/issues/1350) in [nativewind/nativewind](https://github.com/nativewind/nativewind)
+2. ❗ Opened issue [#13](https://github.com/moiSentineL/dicto/issues/13) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
+3. 💪 Opened PR [#1](https://github.com/moiSentineL/grade11-cs-ip/pull/1) in [moiSentineL/grade11-cs-ip](https://github.com/moiSentineL/grade11-cs-ip)
+4. 🎉 Merged PR [#5](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/5) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+5. 💪 Opened PR [#5](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/5) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
 
 <!--END_SECTION:activity-->
 
