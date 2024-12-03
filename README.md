@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/issues/6#issuecomment-2509736923) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-2. 🗣 Commented on [#8](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/issues/8#issuecomment-2509736643) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-3. 🗣 Commented on [#2](https://github.com/moiSentineL/litter/pull/2#issuecomment-2509080719) in [moiSentineL/litter](https://github.com/moiSentineL/litter)
-4. 💪 Opened PR [#2](https://github.com/moiSentineL/litter/pull/2) in [moiSentineL/litter](https://github.com/moiSentineL/litter)
-5. ❗ Opened issue [#1350](https://github.com/nativewind/nativewind/issues/1350) in [nativewind/nativewind](https://github.com/nativewind/nativewind)
+1. 🎉 Merged PR [#9](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/9) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+2. 💪 Opened PR [#9](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/9) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+3. 🗣 Commented on [#6](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/issues/6#issuecomment-2509736923) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+4. 🗣 Commented on [#8](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/issues/8#issuecomment-2509736643) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+5. 🗣 Commented on [#2](https://github.com/moiSentineL/litter/pull/2#issuecomment-2509080719) in [moiSentineL/litter](https://github.com/moiSentineL/litter)
 
 <!--END_SECTION:activity-->
 
