@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/moiSentineL/dotfiles/issues/2) in [moiSentineL/dotfiles](https://github.com/moiSentineL/dotfiles)
-2. 💪 Opened PR [#10](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/10) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-3. 🎉 Merged PR [#9](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/9) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-4. 💪 Opened PR [#9](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/9) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
-5. 🗣 Commented on [#6](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/issues/6#issuecomment-2509736923) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+1. 🗣 Commented on [#2](https://github.com/moiSentineL/dotfiles/issues/2#issuecomment-2528103644) in [moiSentineL/dotfiles](https://github.com/moiSentineL/dotfiles)
+2. ❗ Opened issue [#2](https://github.com/moiSentineL/dotfiles/issues/2) in [moiSentineL/dotfiles](https://github.com/moiSentineL/dotfiles)
+3. 💪 Opened PR [#10](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/10) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+4. 🎉 Merged PR [#9](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/9) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+5. 💪 Opened PR [#9](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/pull/9) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
 
 <!--END_SECTION:activity-->
 
