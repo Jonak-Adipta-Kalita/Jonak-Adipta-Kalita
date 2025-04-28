@@ -40,7 +40,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App/issues/8#issuecomment-2651028223) in [Jonak-Adipta-Kalita/JAK-KV-Attendance-App](https://github.com/Jonak-Adipta-Kalita/JAK-KV-Attendance-App)
+1. 🗣 Commented on [#83](https://github.com/moiSentineL/flomo/issues/83#issuecomment-2833254105) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 2. 🎉 Merged PR [#14](https://github.com/moiSentineL/dicto/pull/14) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
 3. 💪 Opened PR [#14](https://github.com/moiSentineL/dicto/pull/14) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
 4. 🗣 Commented on [#13](https://github.com/moiSentineL/dicto/issues/13#issuecomment-2559927981) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
