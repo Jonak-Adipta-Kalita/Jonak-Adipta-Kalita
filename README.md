@@ -40,10 +40,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#83](https://github.com/moiSentineL/flomo/issues/83#issuecomment-2833254105) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-2. 🎉 Merged PR [#14](https://github.com/moiSentineL/dicto/pull/14) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-3. 💪 Opened PR [#14](https://github.com/moiSentineL/dicto/pull/14) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-4. 🗣 Commented on [#13](https://github.com/moiSentineL/dicto/issues/13#issuecomment-2559927981) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
+1. 🔒 Closed issue [#83](https://github.com/moiSentineL/flomo/issues/83) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+2. 🎉 Merged PR [#85](https://github.com/moiSentineL/flomo/pull/85) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+3. 🗣 Commented on [#84](https://github.com/moiSentineL/flomo/issues/84#issuecomment-2956774103) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+4. 🗣 Commented on [#85](https://github.com/moiSentineL/flomo/pull/85#issuecomment-2956771471) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 5. 🗣 Commented on [#13](https://github.com/moiSentineL/dicto/issues/13#issuecomment-2559925269) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
 
 <!--END_SECTION:activity-->
