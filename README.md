@@ -21,7 +21,6 @@
 <a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="150" alt="Jonak Adipta Kalita's Dev Card" align='right'/></a>
 
 -   🌱 I’m currently learning Nihongo 🇯🇵 and Lead Guitar 🎸
--   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
 -   💬 Ask me about Coding
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
