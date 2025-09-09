@@ -39,8 +39,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/moiSentineL/flomo/issues/84#issuecomment-2972998673) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-2. 🔒 Closed issue [#83](https://github.com/moiSentineL/flomo/issues/83) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+1. 🎉 Merged PR [#386](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/386) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. 💪 Opened PR [#386](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/386) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 3. 🎉 Merged PR [#85](https://github.com/moiSentineL/flomo/pull/85) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 4. 🗣 Commented on [#84](https://github.com/moiSentineL/flomo/issues/84#issuecomment-2956774103) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
 5. 🗣 Commented on [#85](https://github.com/moiSentineL/flomo/pull/85#issuecomment-2956771471) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
