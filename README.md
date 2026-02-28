@@ -23,7 +23,7 @@
 -   🌱 I’m currently learning Nihongo 🇯🇵 and Lead Guitar 🎸
 -   💬 Ask me about Programming or Music :)
 -   😄 Pronouns: He/His
--   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
+-   ⚡ Fun fact: I love collecting Hobbies :D
 
 <br />
 
