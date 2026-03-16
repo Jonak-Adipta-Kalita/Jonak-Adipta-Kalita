@@ -39,11 +39,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#386](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/386) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 💪 Opened PR [#386](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/386) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-3. 🎉 Merged PR [#85](https://github.com/moiSentineL/flomo/pull/85) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-4. 🗣 Commented on [#84](https://github.com/moiSentineL/flomo/issues/84#issuecomment-2956774103) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
-5. 🗣 Commented on [#85](https://github.com/moiSentineL/flomo/pull/85#issuecomment-2956771471) in [moiSentineL/flomo](https://github.com/moiSentineL/flomo)
+1. ❌ Closed PR [#383](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/383) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. ❌ Closed PR [#384](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/384) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+3. ❌ Closed PR [#381](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/381) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#380](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/380) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. ❌ Closed PR [#379](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/379) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
 <!--END_SECTION:activity-->
 
