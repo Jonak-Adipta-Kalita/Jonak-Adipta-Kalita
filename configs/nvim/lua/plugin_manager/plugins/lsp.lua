@@ -47,6 +47,7 @@ return {
 				"rust_analyzer",
 				"tailwindcss",
 				"svelte",
+				"emmet_ls"
 			},
 			handlers = {
 				function(server_name)
@@ -63,6 +64,11 @@ return {
 				Lua = {
 					diagnostics = {
 						globals = { "vim" }
+					},
+					workspaces = {
+						library = {
+							"${3rd}/love2d/library",
+						}
 					}
 				}
 			}
