@@ -20,11 +20,10 @@
 
 <a href="https://app.daily.dev/xxJonakAdiptaxx"><img src="https://github.com/Jonak-Adipta-Kalita/Jonak-Adipta-Kalita/blob/main/images/devcard.svg" width="150" alt="Jonak Adipta Kalita's Dev Card" align='right'/></a>
 
--   🌱 I’m currently learning Music Production!
--   👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
--   💬 Ask me about Coding
+-   🌱 I’m currently learning Nihongo 🇯🇵 and Lead Guitar 🎸
+-   💬 Ask me about Programming or Music :)
 -   😄 Pronouns: He/His
--   ⚡ Fun fact: I have been playing [Tabla](https://en.wikipedia.org/wiki/Tabla) since Grade 1, 10 Years ago!
+-   ⚡ Fun fact: I love collecting Hobbies :D
 
 <br />
 
@@ -40,11 +39,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#13](https://github.com/moiSentineL/dicto/issues/13) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-2. 🎉 Merged PR [#14](https://github.com/moiSentineL/dicto/pull/14) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-3. 💪 Opened PR [#14](https://github.com/moiSentineL/dicto/pull/14) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-4. 🗣 Commented on [#13](https://github.com/moiSentineL/dicto/issues/13#issuecomment-2559927981) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
-5. 🗣 Commented on [#13](https://github.com/moiSentineL/dicto/issues/13#issuecomment-2559925269) in [moiSentineL/dicto](https://github.com/moiSentineL/dicto)
+1. 🎉 Merged PR [#387](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/387) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+2. 💪 Opened PR [#1](https://github.com/moiSentineL/board-pyq/pull/1) in [moiSentineL/board-pyq](https://github.com/moiSentineL/board-pyq)
+3. ❌ Closed PR [#389](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/389) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+4. ❌ Closed PR [#388](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/388) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+5. 💪 Opened PR [#389](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/389) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
 
 <!--END_SECTION:activity-->
 
