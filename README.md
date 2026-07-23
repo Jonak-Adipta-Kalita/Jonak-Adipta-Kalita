@@ -39,11 +39,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1](https://github.com/Jonak-Adipta-Kalita/Nekorina/issues/1) in [Jonak-Adipta-Kalita/Nekorina](https://github.com/Jonak-Adipta-Kalita/Nekorina)
-2. 🗣 Commented on [#1](https://github.com/Jonak-Adipta-Kalita/Nekorina/issues/1#issuecomment-4362864560) in [Jonak-Adipta-Kalita/Nekorina](https://github.com/Jonak-Adipta-Kalita/Nekorina)
-3. 🎉 Merged PR [#2](https://github.com/Jonak-Adipta-Kalita/Nekorina/pull/2) in [Jonak-Adipta-Kalita/Nekorina](https://github.com/Jonak-Adipta-Kalita/Nekorina)
-4. 💪 Opened PR [#2](https://github.com/Jonak-Adipta-Kalita/Nekorina/pull/2) in [Jonak-Adipta-Kalita/Nekorina](https://github.com/Jonak-Adipta-Kalita/Nekorina)
-5. 💪 Opened PR [#389](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/389) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
+1. 🔒 Closed issue [#1](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/issues/1) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
+2. ❌ Closed PR [#12](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/pull/12) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
+3. ❌ Closed PR [#11](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/pull/11) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
+4. 🎉 Merged PR [#13](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/pull/13) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
+5. 💪 Opened PR [#13](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/pull/13) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
 
 <!--END_SECTION:activity-->
 
