@@ -12,7 +12,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xxjonakadiptaxx)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Jonak-Adipta-Kalita&theme=juicyfresh&no-frame=true&title=Commit,Stars,Repositories,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://jak-github-profile-trophy.vercel.app/?username=Jonak-Adipta-Kalita&theme=juicyfresh&no-frame=true&title=Commit,Stars,Repositories,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -30,10 +30,6 @@
 ## Holopin Badge Board
 
 [![@xxjonakadiptaxx's Holopin board](https://holopin.io/api/user/board?user=xxjonakadiptaxx)](https://holopin.io/@xxjonakadiptaxx)
-
-## Listening on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31cypdycu52u6rj3bsfcldmqrlji&redirect=true)
 
 ## Recent Activities
 
