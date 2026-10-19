@@ -28,8 +28,8 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#397](https://github.com/Jonak-Adipta-Kalita/JAK-Website/pull/397#issuecomment-6241976894) in [Jonak-Adipta-Kalita/JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)
-2. 🔒 Closed issue [#104](https://github.com/Jonak-Adipta-Kalita/JAK-MonkeyLang/issues/104) in [Jonak-Adipta-Kalita/JAK-MonkeyLang](https://github.com/Jonak-Adipta-Kalita/JAK-MonkeyLang)
-3. 🔒 Closed issue [#103](https://github.com/Jonak-Adipta-Kalita/JAK-MonkeyLang/issues/103) in [Jonak-Adipta-Kalita/JAK-MonkeyLang](https://github.com/Jonak-Adipta-Kalita/JAK-MonkeyLang)
+2. 🔒 Closed issue [#104](https://github.com/Jonak-Adipta-Kalita/Tutorial-Monkey-Language/issues/104) in [Jonak-Adipta-Kalita/Tutorial-Monkey-Language](https://github.com/Jonak-Adipta-Kalita/Tutorial-Monkey-Language)
+3. 🔒 Closed issue [#103](https://github.com/Jonak-Adipta-Kalita/Tutorial-Monkey-Language/issues/103) in [Jonak-Adipta-Kalita/Tutorial-Monkey-Language](https://github.com/Jonak-Adipta-Kalita/Tutorial-Monkey-Language)
 4. 🎉 Merged PR [#13](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/pull/13) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
 5. 💪 Opened PR [#13](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter/pull/13) in [Jonak-Adipta-Kalita/Minecraft-Group-Sorter](https://github.com/Jonak-Adipta-Kalita/Minecraft-Group-Sorter)
 
